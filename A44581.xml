@@ -1,0 +1,1060 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition and argvment of Mr. Hotham, fellow of Peter-house in Cambridge, before the Committee for Reformation of the Universities, April 10, 1651 against the masters negative voice of that colledge, and for a remedy to be granted the colledge against the usurpations of Doctor Seaman the present master, agreeable to what was granted the colledge against the usurpations of Doctor Seaman the present master, agreeable to what was granted by Parliament to the city of London, an. Dom. 1648 for the better enabling them in case of need to act as a free body without their chief officers concurrence.</title>
+            <author>Hotham, Charles, 1615-1672?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 153 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44581</idno>
+            <idno type="STC">Wing H2897</idno>
+            <idno type="STC">ESTC R26808</idno>
+            <idno type="EEBO-CITATION">09547103</idno>
+            <idno type="OCLC">ocm 09547103</idno>
+            <idno type="VID">43591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44581)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43591)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition and argvment of Mr. Hotham, fellow of Peter-house in Cambridge, before the Committee for Reformation of the Universities, April 10, 1651 against the masters negative voice of that colledge, and for a remedy to be granted the colledge against the usurpations of Doctor Seaman the present master, agreeable to what was granted the colledge against the usurpations of Doctor Seaman the present master, agreeable to what was granted by Parliament to the city of London, an. Dom. 1648 for the better enabling them in case of need to act as a free body without their chief officers concurrence.</title>
+                  <author>Hotham, Charles, 1615-1672?</author>
+               </titleStmt>
+               <extent>[12], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published for satisfaction to such of the university as may possibly be desirous of a true knowledge of that days proceedings."</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seaman, Lazarus, d. 1675.</term>
+               <term>Peterhouse (University of Cambridge)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43591:1"/>
+            <pb facs="tcp:43591:1" rendition="simple:additions"/>
+            <p>THE PETITION AND ARGVMENT OF Mr. Hotham, Fellow of <hi>Peter-Houſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in <hi>Cambridge,</hi> before the Committee for Reformation of the Univerſities, <hi>April</hi> 10. 1651. Againſt the Maſters Negative Voice of that Colledge, and for a remedy t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be granted the Col<g ref="char:EOLhyphen"/>ledge againſt the uſurpations of Doctor <hi>Seaman</hi> the preſent Maſter, agreeable to what was granted by Parliament to the City of <hi>London, An. Dom.</hi> 1648. for the better enabling them, in caſe of need, to act as a free Body, without their chief Officers con<g ref="char:EOLhyphen"/>currence.</p>
+            <p>Publiſhed for ſatisfaction to ſuch of the Univerſity as may poſſi<g ref="char:EOLhyphen"/>bly be deſirous of a true knowledge of that days proceedings.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert,</hi> and are to be ſold at the Black-ſpred-Eagle at the Weſt-end of <hi>Pauls.</hi> 1651.</p>
+         </div>
+         <div type="prefatory_letter">
+            <pb facs="tcp:43591:2" rendition="simple:additions"/>
+            <pb facs="tcp:43591:2"/>
+            <head>To the Honourable, the Committee for Reformation of the Univerſities.</head>
+            <opener>
+               <salute>Right Worthy Senators,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hough by reaſon of a ſubruſtick pudor and love of eaſe (the two Cardinal vices of my Conſtitution) I have been alwaies averſe from action, never but by ſtrong enforcement of duty appearing in publique view. And though I was never ſo well pleaſed with ought I could ever yet ſay or do, as to think it worth a rehearſall, much leſs of publication, especially in theſe Pamphlet<g ref="char:EOLhyphen"/>ing times, wherein the glut of Books hath rendred all mens Palats nauſeous of what is not in its kind excellent and extraordinary: Yet have I been lately by a ſtrong deſire of removing thoſe preſſures our Colledge hath long groaned under, rouzed up out of my dearling reſt, and native ſhamefaſt<g ref="char:EOLhyphen"/>neſs, to appear a petitioner before you in ſome cauſes of our common con<g ref="char:EOLhyphen"/>cernment; in all which, though wearyed with the diſcouragement of con<g ref="char:EOLhyphen"/>tinuall fruſtrations (which put both all thoſe engaged with me, and others that would have otherwiſe appeared, into a reſolution of no more addreſſes) yet could not I ſit ſtill as despairing, till I had made this one aſſay more, and delivered my ſelf of this laſt parturience.</p>
+            <p>This maſculine birth was no ſooner expoſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to the light in your preſence, but it was, as you may well remember, by Doctor <hi>Seaman,</hi> whoſe preroga<g ref="char:EOLhyphen"/>tive it was born to oppoſe, endeavoured to be ſtifled with a deluge of vulgar ſlanders, <hi>viz.</hi> Malignity to his perſon, ambitious deſire of private promo<g ref="char:EOLhyphen"/>tion, enmity to the eſtabliſht Laws and Government of the <g ref="char:V">Ʋ</g>niverſity, from all which the Petition was I think before your ſelves ſufficiently aſſerted; but thoſe light aſperſions being eaſilyer born away on the wings of common Fame, then that weight of reaſon I laid before you for its vindication, I held it convenient to ſend after them this particular memoriall of that dayes pro<g ref="char:EOLhyphen"/>ceedings, that ſo his Calumnies, and this Narrative being both heard ſpeak together, the <g ref="char:V">Ʋ</g>niverſity, which I know never yet eſteemed me an enemy to its Government, may be the better enabled to give a true judgement.</p>
+            <p>But above all, being convinced by ſome preſent at that debate, that what I then delivered before you, if publiſhed, might poſſibly prove both a ſer<g ref="char:EOLhyphen"/>viceable light and incentive to ſome generous ſpirits, to the contribution of their endeavours to that good reformation by you roſolved upon, I could not,
+<pb facs="tcp:43591:3"/>(being a moſt devoted ſervant to that publique end) but give way to their Counſels, though putting my ſlow Pen to the great pennance of extorting from my weak memory, and tranſcribing into a form fit for the Preſs, that rude draught of materials, I had prepared for this work, together with an interſertion here and there of ſome few pertinencies in that tumultuary diſpute, either omitted or forgotten.</p>
+            <p>I muſt confeſs I expected, that having the ſtate of the Controverſie, and great need then was of determining it, ſo clearly laid open before you.
+<list>
+                  <item>
+                     <hi>1.</hi> In Doctor <hi>Seamans</hi> great unwillingneſs ſo much as to anſwer whether he laid claim to a negative voice.</item>
+                  <item>
+                     <hi>2.</hi> In his open diſcovery, when more preſsly urged to it, of his avowance and claim to it.</item>
+                  <item>
+                     <hi>3.</hi> In a full and ſatisfactory anſwer to all thoſe Pleas he could produce in juſtification of this claim; That a Declaration of your ſenſes againſt his negative voice, with ſome certain proviſion againſt the uſe of it for the future, would have been the narroweſt reſult of that dayes conſultation.</item>
+               </list>
+            </p>
+            <p>And I further hoped that ſome Gentlemen of worth would ſo far have eſpouſed a Common wealth quarrel, as that, if the abolition of the Maſters ſupremacy in calling of meetings, and propoſing of queſtions at his own plea<g ref="char:EOLhyphen"/>ſure were not in the Committees power, the matter being of a high and pub<g ref="char:EOLhyphen"/>lique concernment, ſhould have been ſpeedily reported to the houſe to pro<g ref="char:EOLhyphen"/>vide a remedy.</p>
+            <p>But I will not make any fooliſh expectation of mine, a rule whereby to judge of the reſolutions of wiſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r men.</p>
+            <p>That Order you were pleaſed to make that day, of having a view taken of the Statutes of the whole <g ref="char:V">Ʋ</g>niverſity, and every particular Colledge, was a noble and a generous Reſolve; and to ſuffer your ſelves, from the repreſen<g ref="char:EOLhyphen"/>tation of a particular places grievances to be awakened into a poſitive acti<g ref="char:EOLhyphen"/>vity towards an univerſall reformation, was a thing becoming men of en<g ref="char:EOLhyphen"/>larged ſpirits, and that Archipoimenall power you are entruſted with. And in that ſubſequent Order of thoſe Gentlemen of the Sub Committee, Dated <hi>April 25.</hi> I cannot but with all due reverence applaud their wiſe admit<g ref="char:EOLhyphen"/>tance of an intermixture of the experience of men beſt knowing in Colledge affairs with their own particular wiſdoms in this Reformation: you gain<g ref="char:EOLhyphen"/>ing by this means a threefold advantage.</p>
+            <p>Firſt, The due praiſe of your Honourable Condeſcent in not aſſerting us to our loſt freedoms by an abſolute power, till there firſt appear in our ſelves a diſlike of our former Metamorphoſis, and willingneſs to be reſtored.</p>
+            <p>Secondly, A true knowledge of the condition and temper of the <g ref="char:V">Ʋ</g>niver<g ref="char:EOLhyphen"/>ſity in the Genius of its particular members, and how it ſtands affected to the principles of freedom.</p>
+            <pb facs="tcp:43591:3"/>
+            <p>And thirdly, Many conſiderable diſcoveries, which your ſelves out of the bare Theory could never have made, of great ſubſerviency to the clearing of your underſtandings, not only in this point of freedome, but in all the other parts of your intended Reformation.</p>
+            <p>Yet give me leave in my rough Northern Dialect to preſent before you ſome grand obſtructions, which as to our Colledge (for I deſire not to in<g ref="char:EOLhyphen"/>termeddle further) may poſſibly hinder ſuch due concurrence as might juſtly be expected.</p>
+            <p>The firſt is the Maſter of the Colledges reſiding at <hi>London,</hi> who though at that diſtance from his Charge, he ought to be lookt at as a non ſignifi<g ref="char:EOLhyphen"/>cant Cypher, yet hath he thereby opportunity, by his great intereſt and ac<g ref="char:EOLhyphen"/>quaintance with many of your members, to caſt the prejudices of a private and partial information againſt whatſoever we ſhal preſent, eſpecially if intrenching upon his prerogative.</p>
+            <p>Secondly, Though himſelf ſhould ſit ſtill and ſay nothing, yet his known Agent that grave Seigniour, who ſtands alwaies at your elbow, and hath been permitted more then once to intermeddle in our Colledge affairs, even in the time of your private debates, when we of the Colledge, who are moſt concerned were commanded to withdraw, and who, by the knowledge of your minds he thereupon pretends to, hath ſometimes attempted to deprave your Orders from your ſenſe, recorded by your publike Officer. This man ſtill continuing in truſt and reſpect with you, and I believe oft intruding his alley into the penning of your Orders <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cannot but adminiſter us great ground of jealouſie, that our beſt endeavours are in danger to prove abor<g ref="char:EOLhyphen"/>tive.</p>
+            <p>I ſpeak not this without good ground, for when we had once at the be<g ref="char:EOLhyphen"/>ginning of theſe troubles a Petition to preſent to you; a prudent man of our Society, whoſe judgement we knew concurred with us, did refuſe to appear above-board upon this very ground: Our Petition he ſaid was very juſt, and agreeable both to Reaſon, and the Colledge Statute, but the Tribe of <hi>Adoniram</hi> would be too ſtrong for us.</p>
+            <p>A Gentleman being once to travel into <hi>France,</hi> took with him a raw Countrey-fellow to wait upon him; the Gentleman being arrived at <hi>Paris,</hi> and ſome daies after, going to ſee the Court, his man was very inquiſitive of him to know which was the King: but being ſhewn him, would not be<g ref="char:EOLhyphen"/>lieve it was he, and gave this for his reaſon, That ſure the French were not ſuch fools, when they had among them as he knew well, a grave, able, and learned Councellour to make choice of (he meant a tall grim <hi>Switzer,</hi> with a great head, and a long beard, which he had obſerved waiting at the Kings
+<pb facs="tcp:43591:4"/>Gate) to reject this wiſe man, and make choice of a young youth of not thirty year old to be their King.</p>
+            <p>All the application I make of it is but this one ſober <hi>aviſo,</hi> that you be<g ref="char:EOLhyphen"/>ware of too much depretiating your ſelves, and your authority; The being but thought to <hi>Philippiſe,</hi> was once a great diſhonour to the famous Oracle.</p>
+            <p>This reverend <hi>Switzer</hi> is I aſſure you lookt at as a great man, is adored by many, and few I think appear before you but ſacrifice to him, at leaſt <hi>ne noceat,</hi> and the old Proverb of our Chronicle begins to be again re<g ref="char:EOLhyphen"/>membred;</p>
+            <q>
+               <l>
+                  <hi>He that will</hi> England <hi>win,</hi>
+               </l>
+               <l>
+                  <hi>With</hi> Scotland <hi>muſt firſt begin.</hi>
+               </l>
+            </q>
+            <p>I know not whether this plain language may diſpleaſe ſome, but I hope ſome indulgence will be granted to a poor Northern man, who hath not yet learned to ſpeak ſmooth Engliſh. And beſides, it is more agreeable both to the rules of honeſty and your intereſt, that theſe things ſhould be declared to you, then whiſpered of you. But I forget my ſelf.</p>
+            <p>That this mans finger (though your ſelves I am confident are not aware of it) hath not been wanting to the penning of this Order, I do a little ſuſ<g ref="char:EOLhyphen"/>pect. Becauſe firſt, Only thoſe members of Colledges entruſted with the Government for the time being (which I think in moſt Colledges are only the Maſter and two Deans, and a Lecturer or two) are here called in to give their advice. Secondly, That maſculine expreſſion in your firſt Re<g ref="char:EOLhyphen"/>ſolve of reducing the Statutes to ſuch a ſtate as may render them moſt con<g ref="char:EOLhyphen"/>ducing to the advancement of the intereſt of a Common wealth, being in this latter Order left out, and inſtead thereof, they only commanded to con<g ref="char:EOLhyphen"/>ſider what Statutes, &amp;c. are prejudicial to the preſent Government: whereupon moſt men declining your intended ſenſe (of which your firſt Re<g ref="char:EOLhyphen"/>ſolve is the beſt Expoſitor) will probably confine their underſtandings ſole<g ref="char:EOLhyphen"/>ly to the Conſideration of the Oaths of Allegiance and Supremacy, or ſomething of that nature, as fit to be aboliſhed.</p>
+            <p>Thirdly, In our Colledge, though the Maſter and Deans, with the Le<g ref="char:EOLhyphen"/>cturer (and Burſar in ſome caſes) are ſolely intruſted with the executive part of the governing power, yet is every member of the ſociety by our Sta<g ref="char:EOLhyphen"/>tute, equally intruſted with the Legiſlative.</p>
+            <p>Now there are lately five Fellows put in by Order of this Committee, who though none of them have yet attained the degree of Maſter of Arts, and ſo are not yet men in an <g ref="char:V">Ʋ</g>niverſity account, yet muſt they (being by your ſpecial Orders made compleat Fellows a year before their time) though utterly ignorant of our Statutes, unexperienced in Colledge affairs, and be<g ref="char:EOLhyphen"/>ſides, all but one of them, by their ſeveral relations to the Maſter, moſt
+<pb facs="tcp:43591:4"/>devoted to his intereſt, have equal Votes in this grand Tranſaction with us of ancienteſt ſtanding and experience, which muſt needs produce vaſt obſtructions, and perhaps returns of contradictory opinions before your Tri<g ref="char:EOLhyphen"/>bunal. And theſe young lads opinions, being in the moſt material points, ſure to have the Maſters, either private or publike abettance, according to whoſe private inſtructions they will aſſuredly act, 'tis not uneaſie to judge by former ſucceſſes what is like to be the event in this.</p>
+            <p>Fourthly, It being unlikely that you will finde in other Colledges, a num<g ref="char:EOLhyphen"/>ber conſiderable to the major part to declare for any conſiderable mutation, where no oppreſſive miſcarriage of their chief Officer hath awakened them into a diſtaſte of their preſent abſolute Monarchy; its improbable our Col<g ref="char:EOLhyphen"/>ledge lying under ſuch diſcouragements will adventure to be ſingular.</p>
+            <p>Fifthly, That whch is likely to prove the main obſtruction of all, is mens jealouſies of thoſe hazards they may incur by a fruitleſs Declaration of their ſenſes in points tending to the advancement of a Commonwealth in<g ref="char:EOLhyphen"/>tereſt, yourſelves having not yet declared your own ſenſes in favour of the cauſe of Liberty, which makes ſome fear, that their profeſſion of ſome free principles may (though undoubtedly far from your honorable intentions) prove in the event, but an aſſembling themſelves though honeſt men, to the fate of Baals Prieſts, I mean the rage of that Samaritan, whoſe corrupt intereſt they oppoſe.</p>
+            <p>But if your ſelves upon whoſe countenances all men will look as the magnetick Pole-ſtars of their motion, would but ſhew your ſelves ſo far propitious to the cauſe of Liberty, as to paſs but by way of earneſt, a previous Declaration of your ſenſes againſt the prerogative of <hi>Peters</hi> Chair, whoſe root lies already bare and disfaſtned by reaſons, axes and mattocks, and wants but one ſtroke of your authority to lay it level with the ground; this would indeed give ſome incouragement to our fainting reſolutions.</p>
+            <p>But if the redreſs of our grievance muſt be deferr'd till a perfect new model of all thoſe Statutes have waded through that infinitude of almoſt inſuperable obſtructions it will meet with: I cannot but look at our Cauſe as neer deſperate, or at leaſt ſhall of poor <hi>Peter-houſe</hi> take up my Proverb, and ſay <hi>Dum conſulitur Romae, capitur Saguntum;</hi> while help from our friends of the <hi>Roman</hi> Republick is delaied, our Liberties are left as a prey; and thoſe that appear'd for it, as aſcorn to the inſulting enemy, who now having obtain'd his will in your ejection of one elected by the Preſident and Fellows; of which you have an account annext to the latter end of this Relation, and his own Sizer a <hi>Londoner</hi> put by you into that Fellowſhip, though deſign'd by our Founder for a Northren man; and having laſtly
+<pb facs="tcp:43591:5"/>got this deſired advantage of having this great controverſie left in <hi>ſtatu quo,</hi> and drown'd in that unfathomable Ocean of the univerſal view, and Refor<g ref="char:EOLhyphen"/>mation of the great body of our Colledge and <g ref="char:V">Ʋ</g>niverſitie Statutes (like that ſouldier, who being told he muſt anſwer for ſome yards of cloth he had ſnatch't out of a Merchants ſhop, at the day of Judgement, merrily re<g ref="char:EOLhyphen"/>torted; that might he have ſo long a day given him, he would take the whole piece) puts the evil day afar off; and as I hear impotently boaſts himſelf your onely Favorite, and the Society as a deſpiſed handful, not otherwiſe look't at then as a heap of dead ſtones, except when it ſhall pleaſe himſelf to animate us into a Fabrick.</p>
+            <p>This I can attribute to nothing ſo much as thoſe his Punick Ambuſca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds where with he hath hitherto prevail'd againſt our more apert Roman Mili<g ref="char:EOLhyphen"/>tia; I mean thoſe ſecret whiſperings inſtill'd, I fear into their ears, whom he hath free acceſs to, of his being the author of all their eſſences in <hi>Peter-houſe,</hi> who now lift up their heels againſt him, of a Faction, and I know not what plot, to make way for building up another mans promotion out of his ruins; which groundleſs<g ref="char:punc">▪</g> ſcandals, lying perhaps as a prepoſſeſſion in many mens belief, cannot but prove a heavy obſtruction in their way who have done, or ſhall further appear his adverſaries.</p>
+            <p>But I hope you will in time conſider how uſual a ſtratagem it hath al<g ref="char:EOLhyphen"/>wayes been of tyrants, to defile thoſe that appear'd for Reformation with ſuch like ſlanders.</p>
+            <p>And when Truths Story comes to be told in to your other ear, which I hope is reſerv'd empty for us the Fellows; theſe daughters of Falſhood will hide their faces, and vaniſh into nothing. I could my ſelf with a little more of your patience rectifie your judgements of thoſe prejudices, were I ſure there were need of it.</p>
+            <p>But I have detained you too long.</p>
+            <p>Be pleaſed to accept of theſe Remonſtrances, which, leſt the Publicati<g ref="char:EOLhyphen"/>on might be miſinterpreted an appeal to others; I crave the boldneſs to De<g ref="char:EOLhyphen"/>dicate in all humility to your ſelves, not doubting, but that that candid and favourable attention of yours, which honor'd their firſt privater birth, will not deny its propitious influence upon this their more publick production.</p>
+            <p>And that you will every way approve your ſelves anſwerably to that honorable Stile you bear, <hi>The Committee for Reformation,</hi> is the confi<g ref="char:EOLhyphen"/>dence, And will alwayes be the Prayer of</p>
+            <closer>
+               <signed>Your meaneſt Servant, Ch. Hotham.</signed>
+            </closer>
+         </div>
+         <div type="prefatory_letter">
+            <pb facs="tcp:43591:5"/>
+            <head>To my moſt dear and ever honoured friends, the Fellows of <hi>Peter</hi>-houſe in <hi>Cambridge.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen of our ancient Society,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I caſt my eye upon your experienced great worth, and the unparallel'd happineſs I have long enjoyed in my converſes with you, I cannot but wiſh my ſelf able to erect ſome laſting monument, whereon to engrave my deep ſenſe of both to perpetuity.</p>
+            <p>But my ſhort power ſinking ſo infinitely beneath my own deſire, and your deſert, I am enforced ra<g ref="char:EOLhyphen"/>ther then be altogether unfruitfull, to preſent you with this barren Eſſay of my endeavours for our common freedom: which coming now to ſee the publike light, is (next to our generall Protectors, to whoſe Honourable inſpection over us, we muſt needs ſay, we owe our preſer<g ref="char:EOLhyphen"/>vation) devoted to your ſervice and acceptance.</p>
+            <p>I know you will a little wonder at this opener appearance of this Petition and Argument, which I think you never looked I would have been ſo adventurous as to have ſuffered to ſee ſo much light as it did in your view before the Committee.</p>
+            <p>For, to appear againſt the intereſt of a man ſo generally befriended, by ſome upon point of ancient acquaintance, &amp; opinion of his holineſs; by others upon his high merit in the ſeceſſion from his former princi<g ref="char:EOLhyphen"/>ples and party he was a head of, to an abſolute complyance with the ſtrongeſt ſword, even to a preaching up the preſent powers Authority,
+<pb facs="tcp:43591:6"/>out of the very ſame Texts and Principles which were formerly made uſe of by the Regal-Paraſites, to eſtabliſh that blind obedience we all declared and fought againſt; for a meer ſervant of principles to contend againſt a ſerver of times, ſuch a good loyall ſubject, and perfect tool of State, that hath like the complying Knight of old, confeſt even Boots and Spurs and all, and reſolved all his former ſtiffe principles into that one of a ſupple, ſervile obedience to the ſtrongeſt ſword, was, I know both you and all men elſe will ſay, a deſperate attempt, and more ſmel<g ref="char:EOLhyphen"/>ing of juvenile heat, then a ſedate wiſdom.</p>
+            <p>I confeſs, if my love of Juſtice, and honourable eſteem of our Judges integrity had not been much ſtronger then any humane hopes of ſuc<g ref="char:EOLhyphen"/>ceſs, I had never imployed my endeavours upon ſo improbable an ad<g ref="char:EOLhyphen"/>venture.</p>
+            <p>But you know my profeſt principle hath alwaies been, that a true Chriſtians motions ſhould be guided by that one ſingle internall princi<g ref="char:EOLhyphen"/>ple of righteouſneſs, that where duty cals to action, there our work is ſimply to contribute an endeavour, leaving ſucceſſes to him that is Lord of all: That that man is not worthy the name of a Chriſtian, nor fit to be an inſtrument of any remarkable good, that will not prodigally ad<g ref="char:EOLhyphen"/>venture the loſs of his repute, as well as labour in miſcarriages, for the poſſible accompliſhment of a righteous end.</p>
+            <p>Whereupon ſome of you may poſſibly remember, that when we were upon that firſt attempt of petitioning the Committee againſt the Maſters man, being made Fellow of our Colledge, and the intruſion of young Lads into the Colledge-government, though I both owned and cordi<g ref="char:EOLhyphen"/>ally joyned with you in thoſe (I think) juſt requeſts, yet I alwaies ſaid we were thus far comparatively unjuſt, in that we unbecomingly ſpent our pains in hewing at a few excrementitious branches, and did not ra<g ref="char:EOLhyphen"/>ther lay the Ax to the root of the tree, <hi>viz.</hi> the Maſter himſelf, and his uſurped prerogative, who by denying us our right of elections, had been the true originall of all thoſe miſchiefs.</p>
+            <p>For as for thoſe youngſters, they having no truſt upon them to the contrary, if they did a little over<g ref="char:punc">▪</g> eagerly ſeek their own promotion, it was but a private error, a ſin of their age, rather then judgement.</p>
+            <p>But for Doctor <hi>Seaman,</hi> a Patriarchiall pretender to Religion, and en<g ref="char:EOLhyphen"/>truſted with the Patronage of the Colledge rights, to betray them and us to his own corrupt deſign of new modelling the Colledge, and mold<g ref="char:EOLhyphen"/>ing up a party devoted to his own ends, was in him an unpardonable
+<pb facs="tcp:43591:6"/>tranſgreſſion, and in us eſpecially, who had appeared againſt leſſer of<g ref="char:EOLhyphen"/>fenders, not altogether excuſable to ſuffer it without endeavouring a remedy.</p>
+            <p>
+               <hi>Dat veniam Corvis, vexat cenſura Columbas.</hi>
+            </p>
+            <p>But you perhaps not thinking fit to engage againſt an intereſt appa<g ref="char:EOLhyphen"/>rently too ſtrong for us, or deſiſting upon other reaſons beſt known to your wiſdoms, I thought fit however to acquit my ſelf from the blame of my own Conſcience by my ſingle engagement againſt that deſtructive prerogative, which I was the rather willing to do upon my own ſingle adventure, becauſe if I prevailed, the Community would be a gainer; if not, the loſs of labour, and the diſrepute was only my own.</p>
+            <p>Beſides, I was ſure you were all throughly perſwaded of my ſouls candor in the attempt, and that none of thoſe by-reſpects our Malig<g ref="char:EOLhyphen"/>nant and ungodly Maſter charged me with, but only the publike good was my ſole and ſincere aym, both in this and other tranſactions, where<g ref="char:EOLhyphen"/>in I have appeared croſs to his deſigns. And ſo whatever error I might commit in the management of this affair, I promiſed my ſelf from you, whoſe cenſure I only valued, an eaſie pardon.</p>
+            <p>Yet in all this proſecution of our cauſe of liberty, you ſee I have hi<g ref="char:EOLhyphen"/>therto acted with ſuch tenderneſs to him I oppoſed, as to aym only at the removall of his hurtfull prerogative, not his perſon: but ſeeing he hath to his former miſcarriages added this Capitall tranſgreſſion, of ſeeking to caſt a publike diſgrace upon the Preſident and whole Socie<g ref="char:EOLhyphen"/>ty, whoſe honour and immunities he was bound to defend, I hope it will not be thought injuſtice if that perſonall charge againſt him (which if produced before, would have come in only as a needleſs ſupernume<g ref="char:EOLhyphen"/>rary motive to the enforcement of my Petition) being reſerved as yet intire, be in its due time, when ſome formalities yet wanting ſhall be ready, produced againſt him to his amotion.</p>
+            <p>And if it ſhould ever be our good hap to diſcharge our ſelves of ſo unneceſſary a burthen, I ſee for my own part no reaſon why the Kingly Office in <hi>Peter-Houſe</hi> may not well be aboliſhed, and he who ſhall a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Preſident be elected yearly to ſupply the place, content himſelf for his pains with the ſtipend allowed by the Founder, and ſo the State become exonerated of the charge of that augmentation.</p>
+            <p>Nor do I ſee why we ſhould diſtruſt that Government in our Corpo<g ref="char:EOLhyphen"/>ration, of which all the Corporations throughout the whole Nation
+<pb facs="tcp:43591:7"/>have ſuch ample experience, eſpecially we having found by a more then ſix years experience of our own, that all the good ends of Government have been attained with us by a Preſident and Fellows in the Maſters abſence, much better then in his preſence.</p>
+            <p>Yet I ſpeak not this at all in relation to other Colledges, whoſe Conſtitution may be different from ours, and who have perhaps found great benefit redounding to their Communities from their ſeverall Maſters vigilancy and faithfulneſs to the common intereſt.</p>
+            <p>But I hope the Maſter of our Colledge will be ſo wiſe in his genera<g ref="char:EOLhyphen"/>tion, as to cut off the Clue from theſe remote deſigns, by making uſe of that old Statute, <hi>de promotis,</hi> together with that preſent intereſt he hath in many members of the honourable Committee, to rid me firſt out of his way, a thing moſt of you know he hath oft threatned me with, but could never yet by ſuch means get me to bate him one Ace of my open oppoſition to his deſigns, where my judgement engaged me to it.</p>
+            <p>I know moreover what obſtructions he is able to lay in my way (without once being ſeen in it himſelf) whenſoever I ſhall come to lay claim to my <hi>Lancaſhire</hi> inheritance, but it is my reſolution, God willing, to go on as juſtice ſhall call, ſtraight forward, without looking aſide either to the right hand, or to the left.</p>
+            <p>Nor ſhall the hazard either of my fellowſhip, or five or ſix hundred pounds a year to boot, deter me from doing ought wherein I may ad<g ref="char:EOLhyphen"/>vance a publike good, with reſpect to that worthy Society, to whom I ſhall, while I enjoy life, endeavour to approve my ſelf.</p>
+            <closer>
+               <signed>A moſt affectionate and faithfull Servant, <hi>Ch. Hotham.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:43591:7"/>
+            <head>
+               <hi>Viceſimo Octavo</hi> Februarii. 1648. An Act of the Commons of <hi>England</hi> in Parliament aſſembled, for removing Ob<g ref="char:EOLhyphen"/>ſtructions in the proceedings of the Common-Councel of the City of <hi>London.</hi>
+            </head>
+            <p>THe Commons of <hi>England</hi> in Parliament aſſembled, do enact and ordain, and be it enacted and ordained by the Authority aforeſaid, that in all times to come, the Lord Maior of the ſaid City of <hi>London,</hi> ſo often, and at ſuch time as any ten or more of the Common-Councel men do by writing under their hands, requeſt or deſire him thereunto, ſhall ſummon, aſſemble, and hold a Common-Councel. And if at any time, being ſo required or deſired, he ſhall ſail therein, then the ten perſons, or more, making ſuch requeſt or deſire, ſhall have power, and are hereby authorized by writing under their hand to ſummon, or cauſe to be ſummoned to the ſaid Councel, the members belonging thereunto, in as ample manner as the Lord Maior himſelf uſually hath done. And that the members appearing upon the ſame ſummons, being of the number of forty, or more, ſhall become a Common-Councel. And that each Officer, whoſe duty it ſhall be to warn in, and ſummon the members of the ſaid Councel, ſhall perform the ſame from time to time, upon the Warrant or Command of ten perſons or more ſo, ſo authorized as aforeſaid. And it is further enacted and ordained by Authority aforeſaid, that in every Common-Councel hereafter to be aſſembled, the Lord Maior of the ſaid City for the time being, or in his abſence ſuch <hi>Locum tenens</hi> as he ſhall appoint, and in default thereof, the eldeſt Alderman preſent, if any be, and for want of ſuch Alderman, or in caſe of his neg<g ref="char:EOLhyphen"/>lect, or refuſal therein, then any other perſon, member of the ſaid Councel, whom the Commons preſent in the ſaid Councel ſhall chuſe, ſhall be from time to time Preſident or Chair-man of the ſaid Councel, and ſhall cauſe and ſuffer all things offered to, or propoſed in the ſaid Councel, to be fairly and orderly debated, put to the Queſtion, Voted and determined in and by the ſame Councel, as the maior part
+<pb facs="tcp:43591:8"/>of the members preſent in the ſaid Councel ſhall deſire, or think fit: and in every Vote which ſhall paſs, and in the other proceedings of the ſaid Councel, neither the Lord Maior nor Aldermen, ioynt or ſepe<g ref="char:EOLhyphen"/>rate, ſhall have any negative or diſtinct Voyce or Vote, otherwiſe then with and among, and as part of the reſt of the members of the ſaid Councel; and in the ſame manner as the other members have: And that the abſence and withdrawing of the Lord Maior or Aldermen from the ſaid Councel, ſhal not ſtop or preiudice the procéedings of the ſaid Councel. And that every Common-Councel which ſhall be held in the City of <hi>London</hi> ſhall ſit and continue ſo long as the maior part of the Councel ſhall think fit, and ſhall not be diſſolved or adiourned, but by, and according to the order or conſent of the maior part of the ſame Councel. And that all the Votes and Acts of the ſaid Common-Councel, which was held <hi>13. Januarii</hi> laſt, after the departure of the Lord Maior from the ſame Counſel. And alſo all Votes and Act<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of every Common-Councel hereafter to be held, ſhall be from time to time duly Regiſtred as the Votes and Acts of the ſaid Councel have uſed to be done in time paſt. And be it further enacted and ordained by the authority aforeſaid, that every Officer which ſhall ſit in the ſaid Councel, ſhall be from time to time choſen by the ſaid Councel, and ſhall have ſuch reaſonable allowance or ſalary for his pains and ſer<g ref="char:EOLhyphen"/>vice therein, as the Councel ſhall think fit. And that every ſuch Of<g ref="char:EOLhyphen"/>ficer ſhall attend the ſaid Common-Councel: And that all Acts and Records, &amp; Regiſter-Books belonging to the ſaid City, ſhall be extant to be peruſed and ſearched into by every Citizen of the ſaid City, in the preſence of the Officer who ſhall have the charge of kéeping thereof, who is hereby required to attend for the ſame purpoſe.</p>
+            <closer>
+               <signed>
+                  <hi>Hen. Scobel</hi> Cler. Parliament.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>Preface to the Committee, page 1. line ult. read <hi>reſolv'd.</hi> p. 2. l. 16. r. <hi>And I further, &amp;c.</hi> p. 3. l. 23. r <hi>alloy.</hi> Book. p. 3. l. 26. r. <hi>ſome time.</hi> l 33. r. <hi>inconveniences.</hi> l. 34. r. <hi>Maſter.</hi> p. 5. l. 16. r. <hi>pauſing.</hi> p. 8. l. 3. r. <hi>particulars.</hi> p. 11. l. 3. r. <hi>the only ſound. &amp;c.</hi> p. 12. l. 2. r. <hi>liking.</hi> and l. 15. r. <hi>be ſo underſtood.</hi> p. 13. l. 23. r. <hi>or Proctors.</hi> p. 14. l. 25. r. <hi>in aliquo.</hi> p. 19. l. 26. r. <hi>an equivocal brood out of corrupt manners.</hi> p. 21. l. 2. r. <hi>arduis.</hi> and l. 6. dele <hi>now.</hi> p. 22. l. 4. dele. <hi>when.</hi> l. 11 r. <hi>ſyſtem'd up, &amp;c.</hi> p. 23. l. 5. r. <hi>Societies.</hi> p. 24. l. 10. r. <hi>conjunctim.</hi> p. 25. l. 2. r. <hi>ſo much.</hi> p. 27. l. 3. r. <hi>obſtinacy.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <pb n="1" facs="tcp:43591:8"/>
+                        <head>To the Honorable, the Committee for Reformation of the UNIVERSITIES. The Humble Petition of <hi>Charls Hotham,</hi> Fellow of <hi>Peter-Houſe</hi> in <hi>Cambridge.</hi>
+                        </head>
+                        <opener>Sheweth,</opener>
+                        <p>
+                           <hi>
+                              <seg rend="decorInit">T</seg>Hat whereas in all Societies of men incorporate, great evils do uſually ariſe from the too exorbitant power of their chief Officer, not annually elected to his Truſt; the ſad experience whereof our Colledge hath of late felt, the Maſter aſſuming to himſelf, or his Preſident (if preſent) the ſole power of Con<g ref="char:EOLhyphen"/>vocating and diſſolving of publike Meetings, and propoſing of Queſtions at his own pleaſure; and ſometimes refuſing to act according to the determination of the major part; and all this onely for want of our Founders ſufficiently expreſſing his minde in a Statute of our Colledge; wherein he Wills, that the Maſter ſhould in the Arduous affairs of the Colledge, conſult with the Fellows in Common, and ſtand to the determination of the Major and ſounder part, but hath through the uncertainty of the laſt expreſſion, left a gap open to the exerciſe of an Arbitrary power; and beſides, conſtituted no penalty to the Maſter at any time, upon ſiniſter ends, refuſing to do his duty in that kind, nor provides the Colledge of any way for calling of Meetings, or making of Acts in form valid, without his, or his Preſidents concurrence.</hi>
+                        </p>
+                        <p>
+                           <hi>And ſeeing the Parliament hath always adjudged this unlimitted power in the ſupream Officer of the Nation, of a dangerous and deſtructive na<g ref="char:EOLhyphen"/>ture to the Weal Publike, and hath further proceeded ſo far, as to reſtrain the ſame in the City of <hi>London,</hi> where yet the danger is not ſo great, as in our ſmaller Corporation, their chief Officer being annually changeable, and new elected to his Truſt: but ours, one and the ſame during the whole term of his life.</hi>
+                        </p>
+                        <p>
+                           <hi>May it therefore pleaſe this Honorable Committee, for prevention of future miſchiefs, and for Caution that this root of Corruption left in one of the ancienteſt Fountains of youths education do not ſpread out its pernitious branches to gangrene the whole Nation,</hi> To Ordain, <hi>That from henceforth the Maſter ſhall not aſſume to himſelf, or his
+<pb n="2" facs="tcp:43591:9"/>Preſident, ſuch an exorbitant power, but that he or his Preſident, or the Senior Fellow of thoſe preſent at home, ſhall at any time, upon the deſire of two of the ſeven Senior Fellows, left with him in writing under their hands, call a meeting at ſome ſeaſonable time, within</hi> 48. <hi>hours after their deſire ſo ſignified; and ſhall at that, and all other meetings propoſe to the Society ſuch queſtions as the Major part ſhall think fit, and not diſſolve a<g ref="char:EOLhyphen"/>ny meeting without conſent of the major part; And laſtly, ſhall not aſſume to himſelf any Negative or diſtinct voyce, otherwiſe then as one member of the Aſſembly, and in the ſame manner as other members have, but ſhall accord<g ref="char:EOLhyphen"/>ing to the duty of his place, duly and without delay put in execution the de<g ref="char:EOLhyphen"/>termination of the ſaid Major part, and all this to be eſtabliſht under a ſuf<g ref="char:EOLhyphen"/>ficient penalty; the want of which is the greateſt encouragement to mortal men to offend: And that in caſe the Maſter or his Preſident, or Senior Fel<g ref="char:EOLhyphen"/>low then preſent, ſhall refuſe upon ſuch deſire of two of the Seniors, as above-ſaid, to call a meeting, then they themſelves to be authoriſed to call a meet<g ref="char:EOLhyphen"/>ing; and ſuch of the Fellows as ſhal meet upon their ſummons, if there be a<g ref="char:EOLhyphen"/>bove ſeven then at home, to be impowred to chuſe a Preſident for that time, and to be a Colledge Aſſembly to all intents and purpoſes; And what ſhall paſs in ſuch Aſſembly ſo Convocated by the Senior Fellow of thoſe preſent at home, or the two Seniors above-ſaid, to be reputed an Act of the Colledge, as valid as if the ſame meeting had been convocated by the Maſter or his Preſident: And becauſe great inconvenience may oft inſue by the Maſter and his Preſident, being both abſent together, our Statutes having in ſuch caſe provided the Colledge of no Governor in chief. Your Petitioner doth further pray. That it may be ordained,</hi>
+                        </p>
+                        <p>
+                           <hi>That in caſe the Maſter and his Preſident, ſhall be both abſent, That then the Senior-Fellow of thoſe preſent at home, may, till the Maſters, or his Preſidents return, be impowred as Preſident, to all intents and purpoſes, as if he were by the Maſter nominated, and appointed to that Office.</hi>
+                        </p>
+                        <p>
+                           <hi>And your Petitioner, with the whole Colledge, delivered from the oppreſſions and uſurpations of an Arbitrary power, by the wiſdom and juſtice of this Honorable Committee, Shall ever pray, &amp;c.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="3" facs="tcp:43591:9"/>
+            <p>This Petition was firſt preſented and read before the Commit<g ref="char:EOLhyphen"/>tee <hi>March</hi> 27. at which time Doctor <hi>Seaman</hi> urg'd that this con<g ref="char:EOLhyphen"/>troverſie would concern the whole Univerſity, and therfore was unfit to be ſingled out alone, but rather ſhould fall in with the conſideration of the whole bulk of the Colledge and Univerſity Statutes now under conſideration of the Committee of Viſitors at <hi>Cambridge;</hi> but the Committee then looking at this as a di<g ref="char:EOLhyphen"/>latory ſubterfuge accepted of the Petition, aſſign'd a day for ta<g ref="char:EOLhyphen"/>king it into further conſideration, granting me ſummons for ſuch of the Society as I deſir'd for Witneſſes in caſe of need. The Ma<g ref="char:EOLhyphen"/>ſter having the like liberty to nominate whom he pleas'd, but pitch'd upon none. This was the Order.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>March <hi>29. 1651.</hi>
+                              </date> At the Committee for Reformation of the <g ref="char:V">Ʋ</g>niverſities.</dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered, that the Petition of</hi> M. Charles Hotham <hi>Fellow of Pe<g ref="char:EOLhyphen"/>ter-Houſe in the <g ref="char:V">Ʋ</g>niverſity of Cambridge, this day preſented to this Committee, be taken into conſideration on this day fortnight, &amp; that</hi> Dr. Francius, M. Clerk, M. Brock, <hi>and</hi> M. Sams ſenior, <hi>Fel<g ref="char:EOLhyphen"/>lowes of the ſaid Houſe, do in perſon attend this Committee, to in<g ref="char:EOLhyphen"/>form this Committee of what they know concerning the matter of the ſaid Petition, and that in the mean time the Maſter and Fellowes of the ſaid Houſe have a copie of the ſaid Petition if they think ſit.</hi>
+                        </p>
+                        <closer>
+                           <signed>James Chaloner.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>On the day appointed, being <hi>April</hi> 10. being deſirous to have the cauſe heard at as full a Committee as might be, I attended ſometime in the Hall with this following Petition for a revivall of the buſineſſe.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the honourable Committee for Reformation of the <g ref="char:V">Ʋ</g>niverſities, The humble Petition of <hi>Charles Hotham</hi> Fellow of Peter-Houſe,</head>
+                        <opener>Sheweth,</opener>
+                        <p>THat whereas your Petitioner on the 27. of March laſt paſt ha<g ref="char:EOLhyphen"/>ving repreſented to this honourable Committee the great inonveniencies redounding to that Colledge, of which he is a member, from the too exorbitant power exerciſed by the Mr of the ſaid Colledge, for want of our Founders ſufficient declarati<g ref="char:EOLhyphen"/>on of his mind in a Statute, wherein he willeth that the Maſter
+<pb n="4" facs="tcp:43591:10"/>ſhall <hi>in arduis Collegii,</hi> conſult the Fellows in common, and ſtand to the judgment of the major and ſounder part: For the more full and certain execution of which Statutes, your Petitioner did humbly pray, That ſuch remedies as were in that Petition ſpecifi<g ref="char:EOLhyphen"/>ed, might be ordained by the wiſdom of this Honourable Com<g ref="char:EOLhyphen"/>mittee.</p>
+                        <p>Upon which deſire of your Petitioner, it was then ordered, that the ſaid Petition ſhould be taken into conſideration on that day fornight, and that Dr. <hi>Franſticus,</hi> Mr. <hi>Clerk,</hi> Mr. <hi>Brock,</hi> and Mr. <hi>Sams,</hi> Fellowes of the ſaid Colledge, ſhould be required to at<g ref="char:EOLhyphen"/>tend here in perſon, to inform this Honourable Committee what ſhould be thought requiſite concerning the matter of the ſaid Pe<g ref="char:EOLhyphen"/>tition.</p>
+                        <p>Now therefore your Petitioner doth humbly pray, that this being the day appointed for the ſaid hearing (and the Fellows of the Colledge which were ſummon'd being here in perſon, ready to attend the pleaſure of this Ho<g ref="char:EOLhyphen"/>nourable Committee) that the ſaid Petition may be again read, and your Petitioner may be heard to make good his Petition, by ſuch proofs of reaſon, or witneſs, as the na<g ref="char:EOLhyphen"/>ture of the thing ſhall require; and your Petitioner, as in duty bound, ſhall in all humility await ſuch ſentence, as ſhall upon full hearing of all parties concerned be a<g ref="char:EOLhyphen"/>warded by the wiſdom and juſtice of this Honourable Committee.</p>
+                        <p>
+                           <hi>And ſhall ever pray, &amp;c.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>But this ſhort Petition prov'd uſeleſs; for my former large Petition was reſum'd without any motion of mine, and much ſooner then my expectation.</p>
+            <p>But after the firſt clauſe of the Petition was ſcarce read, Doctor <hi>Seaman</hi> interpos'd a motion, that the further reading of it might be ſuſpended, till a private buſineſs, which he ſaid was the true original of all theſe commotions, were firſt heard. So the Petition was at his motion laid aſide, and the private buſineſs firſt brought upon the ſtage: the iſſue of which, falling out ſtrangely to his content, the Committee was made believe this was the ſubſtance of the whole controverſie, there needed now no farther hearing of the publick Petition.</p>
+            <pb n="5" facs="tcp:43591:10"/>
+            <p>Now as for that private buſineſs, ſeeing he hath chriſtened it with the name of publick, I have at the latter end of this Narra<g ref="char:EOLhyphen"/>tive made it publick for his ſake.</p>
+            <p>But nothing diſcourag'd with this unexpected event of that diſpute, I went in again to the Committee, inform'd a noble Gen<g ref="char:EOLhyphen"/>tleman there preſent, I had a Petition there of great concern<g ref="char:EOLhyphen"/>ment, which I deſired might be read, and my ſelf heard ſpeak to it. So at his motion the Petition was reſum'd.</p>
+            <p>After 'twas read, Dr. <hi>Seaman,</hi> I think, firſt ſpake ſomething to it; but to what effect, I have utterly forgotten, and ſhall be glad to be remembred of it by himſelf.</p>
+            <p>When he had done ſpeaking, I mov'd the Committee that for laying a clear foundation, whereupon to ground the debate, he might be askt the queſtion, Whether he laid claim to a negative voyce, or not.</p>
+            <p>His anſwer was, firſt, that he did not deſire to anſwer to any queſtion, till commanded to it by the Committee; but pawſing a while, and perceiving by a general ſilence of all the members, that a more full anſwer was expected, He ſtill ſubtilly declining an an<g ref="char:EOLhyphen"/>ſwer to the queſtion, tells them we had many ſorts of Colledge-meetings; that the Maſter was ſometimes to conſult with the Deans onely, ſometimes with 5 or 6 of the Seniors; but in the arduous affairs of the Colledge, he was to conſult with the Fel<g ref="char:EOLhyphen"/>lows in common, and to ſtand to the judgment of the major part. This now ſeem'd, at firſt view, a clear acknowledgment of his be<g ref="char:EOLhyphen"/>ing bound up in the major part, in meetings of the whole Society preſent.</p>
+            <p>And any man, not acquainted with his methods, would have thought the controverſie had been at an end, and that the Doctor was ſcandal'd in my ſo much as intimating that he had laid claim to a negative voyce.</p>
+            <p>But as 'twill appear he meant nothing leſs For firſt, though he acknowledged himſelf bound in <hi>arduis</hi> to conſult the Fellows in common, yet nothing appear'd, but that he ſtill reſerv'd the judg<g ref="char:EOLhyphen"/>ment of that <hi>arduity</hi> as a <hi>prerogative</hi> within his own breaſt; ſo that the Society for meetings, though never ſo much needed, muſt depend upon his royall pleaſure, which was one of the chief grie<g ref="char:EOLhyphen"/>vances, againſt which a remedy was petition'd for.</p>
+            <pb n="6" facs="tcp:43591:11" rendition="simple:additions"/>
+            <p>Secondly, notwithſtanding his ſeeming acknowledgment of being tied by the major part; yet being further urg'd to declare whether he did not from that additional expreſſion in our Sta<g ref="char:EOLhyphen"/>tute of the ſounder part, challenge to himſelf a deciſive judgment which was the ſounder part, ſo as that he might judge the leſſer part the ſounder, and be thereupon abſolv'd from ſtanding to the judgment of the major part, he could then keep himſelf in the darkneſs no longer, but produc't two Statutes for his negative voyce. The one, extending onely to the proof of his negative voyce over the two Deans, was an interpretation made a hundred and fifty years, or more, after the firſt compiling of our Statutes. In theſe words, <q>
+                  <hi>Item ſi aliquid ex Statuto ſit determinandum per Magiſtrum, &amp; Decanos concernens eorum officia, ſi Magiſter Collegii, &amp; unus Decanorum aliquid decreverint, ſtabit pro rato, &amp; ſi duo Decani decreverint, &amp; Magiſter Collegii non conceſſerit, pro nullo habeatur.</hi>
+               </q>
+            </p>
+            <p>But this prov'd not at all a negative voyce over the major part of the Fellows aſſembled in a meeting.</p>
+            <p>The other (being the main pillar of his cauſe) was the Univerſi<g ref="char:EOLhyphen"/>ty Statute, which he read to the Committee in theſe words.</p>
+            <q>
+               <p>
+                  <hi>In omnibus &amp; ſingulis electionibus tam Sociorum, Diſcipulorum, Schola<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ium, Officiariorum, Lectorum, reliquorúm<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> membrorum cu<g ref="char:EOLhyphen"/>juſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Collegii, quàm in omnibus &amp; ſingulis locationibus, &amp; conceſſi<g ref="char:EOLhyphen"/>onibus quibuſcun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>, neceſſariò requirendus eſt Magiſtri ſive Prae<g ref="char:EOLhyphen"/>poſiti illius Collegii aſſenſus &amp; conſenſus. Et quod bene licebit Magistris ſive Praepoſitis Collegiorum, in ſuis Collegiis, ſi quando illis neceſſarium videbitur, omnes illas poenas exercere in delinquen<g ref="char:EOLhyphen"/>tes, qua<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> aliquis Officiariorum illius Collegii per Statuta ejuſdem Collegii imponere poſſit.</hi>
+               </p>
+            </q>
+            <p>Theſe Statutes he ſaid (but proved it not) were confirm'd by Act of Parliament: To which 'twas anſwer'd, That it's true, the Univerſity Charters were confirm'd by Act of Parliament, but as I believ'd, not the Statutes; no further confirmation that I know of appearing, more then by the ſame Commiſſioners, who re<g ref="char:EOLhyphen"/>view'd our Colledg-Statutes; which as far as I knew, there was as good ground to believe were confirm'd by Parliament, as thoſe of the Univerſity.</p>
+            <p>He further added, that that which I charg'd as a fault upon
+<pb n="7" facs="tcp:43591:11"/>him, <hi>viz.</hi> the relying upon his own wiſdom, I was chiefly guilty of it my ſelf, in preferring a Petition of my own head, without firſt asking the advice and conſent of the Fellows, who did not appear any way to own it: to all which allegations of his, my anſwer, directed to the Chairman of the Committee, was as followes.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <salute>SIR,</salute>
+                        </opener>
+                        <p>I acknowledg it may to this grave Aſſembly ſeem ſtrange, &amp; per<g ref="char:EOLhyphen"/>haps ſomething ſmelling of preſumption, that in a buſineſs wherein the good of the whole Colledg is pretended to, one man onely ſhould appear to own it, &amp; he neither the firſt nor ſecond Senior of the Colledge, nor yet publickly employed by the So<g ref="char:EOLhyphen"/>ciety for the making of ſuch attempt: But I hope if the high conſequence of the matter preſented, and greatneſs of the per<g ref="char:EOLhyphen"/>ſon, or rather intereſt to be oppoſed, and how unwilling men of prudent and ſuffering ſpirits have always been to engage them<g ref="char:EOLhyphen"/>ſelves in high conteſts, and how loath modeſt men are to ask that which they think may probably be denied them, be well conſide<g ref="char:EOLhyphen"/>red, this wonder will ſoon ceaſe. And to take away the impu<g ref="char:EOLhyphen"/>tation of preſumption, I have onely this to ſay, that had I known of any man that would have taken upon him this task, I ſhould moſt willingly, according to that mans directions, either have ſit<g ref="char:EOLhyphen"/>ten ſtill, or ſeconded him in the meaneſt of ſervices tending to the advancement of this cauſe. But I knew of none, and beſides, had, above the reſt of the Society, theſe ſpeciall engagements ob<g ref="char:EOLhyphen"/>liging me to this endeavour.</p>
+                        <p n="1">1. Firſt at the time of my preſenting the Petition, I was one of the Deans of the Colledge, an Officer intruſted by the Found<g ref="char:EOLhyphen"/>er, not onely as an aſſiſtant to the Maſter in the Colledge-Go<g ref="char:EOLhyphen"/>vernment, but likewiſe as one of the <hi>Ephori</hi> of <hi>Sparta,</hi> a Superviſor and Cenſor of his actions in ſome caſes, to admoniſh him, if need were, and in caſe of his obſtinate ſtanding out againſt admoniti<g ref="char:EOLhyphen"/>ons, to complain of him to a Superiour Juſtice.</p>
+                        <p>Secondly, our Colledge-ſtatute requires every member of the Colledge, even after his departure, (much more during his abode) that in way of a grateful acknowledgment of that much good he hath received there, he ſhould endeavour the preſervation of the Colledge-rights to the utmoſt of his power.</p>
+                        <pb n="8" facs="tcp:43591:12"/>
+                        <p>Now there having been one of my own name, and Family, the third, or fourth ſucceſſour to the Biſhop of <hi>Ely</hi> that founded the Colledge, a great Benefactor to it (though the particulas where<g ref="char:EOLhyphen"/>in, appear not) and my ſelf coming now in a more peculiar man<g ref="char:EOLhyphen"/>ner, and by a ſtrange caſt of providence, to partake of the good fruits of his bounty; I held it a double obligation upon me to a performance of this clauſe of our Statute, by endeavouring ſome<g ref="char:EOLhyphen"/>what which poſterity might reap the benefit of; which being at preſent not in a capacity to do, by gift of Lands, or any conſider<g ref="char:EOLhyphen"/>able ſum of Money, all I had left within my power, was <gap reason="illegible" resp="#OXF" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>ly to appear here as the Colledges ſervant, in the vindication of our common-liberties, then which, ingenuous ſpirits know not a more precious treaſure upon Earth.</p>
+                        <p>Thirdly, 'Tis a thing well known to all I have ever converſt with, that I have ever ſince the firſt beginning of theſe civill wars, and that in the moſt hazardous times, when the generality even of the Parliaments party ſtood inclinable to a defection, been to my poor ability, and in my narrow ſphere, a zealous aſſertor of the Nations liberty, againſt the prerogative of the ſupreme Offi<g ref="char:EOLhyphen"/>cer of State, then in War againſt us: And therefore, if upon the ſame principle I now ſhew my ſelf more then ordinarily forward in aſſerting the liberties of our particular Common-wealth, a<g ref="char:EOLhyphen"/>gainſt a parallel tyranny; I hope my boldneſs will find the eaſier pardon.</p>
+                        <p>This I have been neceſſitated to premiſe, in anſwer to thoſe e<g ref="char:EOLhyphen"/>vill ſurmiſes which you hear have been rais'd, and objected, as of great conſequence againſt the title of the Petition, and more might be added; but ſeeing this Committee hath been ſo juſt and honourable, as waving all reſpect of perſons, to take the matter it ſelf into your grave conſiderations, I ſhall now wholly apply my ſelf to the matter in hand.</p>
+                        <p>The Petition is large, but may, <hi>in ſumme,</hi> be reduc't to theſe two heads.</p>
+                        <p>Firſt, a Preamble conſiſting of a Concatenation of divers mo<g ref="char:EOLhyphen"/>tives for enforcement of the Petition.</p>
+                        <p>Secondly, The Prayer of the Petition it ſelf.</p>
+                        <p>The Motives are many, and of great weight.</p>
+                        <p>You have in them,</p>
+                        <pb n="9" facs="tcp:43591:12"/>
+                        <p>Firſt, a generall Propoſition of thoſe great miſchiefs which the common experience of all ages, places, and Nations, teaches us do ariſe from the chief Officer of any Corporations being intruſted with a power diſtinct from, and ſuperior to that of the commu<g ref="char:EOLhyphen"/>nity. 'Tis both the true characteriſticall badge of ſlavery, and the chief fomenter of jealouſies and contentions: For whereſoever 'tis ſo, there's alwayes a particular intereſt of the governing pow<g ref="char:EOLhyphen"/>er ſet up diſtinct from, and moſt what contrary to, that of the publike, then which nothing can be more deſtructive to the wel<g ref="char:EOLhyphen"/>fare of any Community: the truth of which Maxime we have had a feeling proof in the ſad ſeries of thoſe evills which have lately ſprung up in this Nation from the claime and exerciſe of this power by the chief Officer of <hi>Englands</hi> great Corporation: 'Twas that which had like firſt to have plung'd us into the depth of ſlavery, and did afterwards ingage us in a bloudy war, the ju<g ref="char:EOLhyphen"/>ſtice of which war can never be ſolidly maintained by the aſſert<g ref="char:EOLhyphen"/>ers of a Negative Voice. For my own part, this was to me the great convincing argument of the Scots apoſtaſie from their firſt principles, and from the cauſe they were with using ag'd in, when I ſaw them in their Manifeſto plead ſo openly for the upholding of this great branch, or rather ſtock, and bulk it ſelf of the royall Prerogative.</p>
+                        <p n="2">2. You have for confirmation of this truth the judgment of the whole Repreſentative of <hi>England,</hi> and thoſe that have moſt cordially appear'd with them in this cauſe, eſpecially of the now governing power, which hath always declared this power in the King of a moſt dangerous and deſtructive nature to the weale publike, and inconſiſtent with the Nations freedom: And the Ar<g ref="char:EOLhyphen"/>my in particular, when we were not yet attained to that wiſe and generous reſolution of removing the Kingly Office as well as his Perſon, did in their grand Remonſtrance propound it as a neceſ<g ref="char:EOLhyphen"/>ſary caution for the ſecurement of our Liberties, that whoſoever ſhould, upon the removall of the late King, be admitted, though but by election, to ſucceed him, ſhould before his admiſſion diſ<g ref="char:EOLhyphen"/>avow all claim to a Negative Voice.</p>
+                        <p n="3">3. You have preſented to your view a more particular decla<g ref="char:EOLhyphen"/>ration of this preſent Parliaments judgment in this point, in re<g ref="char:EOLhyphen"/>ference to a particular Corporation: Thoſe evills which the
+<pb n="10" facs="tcp:43591:13" rendition="simple:additions"/>whole Nation had formerly groan'd under, there was a criticall time when the City of <hi>London</hi> felt the ſame pangs of the ſame diſeaſe ariſing from the ſame fountain of corruption: the chief governour of that city exerciſing that power in his own Corpo<g ref="char:EOLhyphen"/>ration, which himſelf with others had declar'd and fought againſt in the ſupreme Officer of the Nation; wherupon this Parliament was pleas'd to remove that prerogative, and provide them this very way now petition'd for, of acting as a free Body in caſe of need, without the chief Officers concurrence.</p>
+                        <p n="4">4. The fourth motive humbly propounded to your conſide<g ref="char:EOLhyphen"/>ration is the great miſchiefs which have redounded to our ſmall Corporation from the exerciſe of this arbitrary power by our chief Officer: But of this theme, becauſe 'tis very large, and will need much interlacing of proofs and examination of Wit<g ref="char:EOLhyphen"/>neſſes, I ſhall treat, if need be, in the laſt place.</p>
+                        <p n="5">5. The fifth, and that the moſt generally convincing motive of all, is from our locall Statute which I read to you, when I was here laſt before this Committee, which runs in theſe words.</p>
+                        <p>
+                           <q>
+                              <hi>Quia quod à pluribus quaeritur, faciliùs invenitur, et conſu<g ref="char:EOLhyphen"/>lendo dicit Sapiens, Omnia cum conſilio fac, &amp; minimè poenitebit: ſtatuimus injungendo, nè cùm ardua domus emerſerint negotia, Ma<g ref="char:EOLhyphen"/>gister capitosè ſuae prudentiae imitatur, ſed omnes Scholares convo<g ref="char:EOLhyphen"/>cet, &amp; emerſa <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>egotia exponat eiſdem, &amp; ſuper illis quaerat conſili<g ref="char:EOLhyphen"/>um ſingulorum, nedum ſeniorum, ſed juvenum, cùm donet juniori Deus aliquoties quod non ſeniori: ſed ſi in unam conveniant ſen<g ref="char:EOLhyphen"/>tentiam, bene quidem ſin autem, numero ſtetur majori, etiam &amp; ſaniori.</hi>
+                           </q>
+                        </p>
+                        <p>Here you ſee our Lawgiver expreſly declares his will, that the Maſter ſhall not prefer his private wiſdom before the wiſdom of the whole or major part of the Society: and brands ſuch proceed<g ref="char:EOLhyphen"/>ings of his with an imputation of headineſſe and raſhneſſe: One<g ref="char:EOLhyphen"/>ly ſuppoſing the conſcience of that Oath which the Maſter was to take at his admiſſion would bee a ſufficient tie to a ſtrict performance of his will, thought it needleſſe to eſtabliſh his law by any penalty, or to point us out a way of acting without him, which is the defect we now deſire a ſupply of.</p>
+                        <p>In thoſe times, when a pla<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n, honeſt, and conſcientious ſimpli<g ref="char:EOLhyphen"/>city bore ſway in mens hearts, and wickedneſſe was not ſo inge<g ref="char:EOLhyphen"/>nious
+<pb n="11" facs="tcp:43591:13"/>as it hath ſince proved in our times, a few rules ſufficed to preſerve righteouſneſs and peace amongſt men: The Laws were then (as the Moſaical Law) like thoſe wide-window'd Nets our national Statutes preſcribe for hindering the deſtruction of the young fry of fiſh: but afterwards the corruption of mans nature ſpinning out it ſelf to ſuch a ſubtilty as to find eaſie Evaſion through thoſe ſpacious grates, 'twas found neceſſary in every age to make an intertexture of new threds, and croſs bars for the in<g ref="char:EOLhyphen"/>tangling of thoſe ſubtiller Offenders: Now therefore this which is propounded unto you being of this nature, not purely a new Law, but only a new way laid down (agreeable to what the wiſ<g ref="char:EOLhyphen"/>dom of Parliament had preſcrib'd in a parallel caſe) for the more ſure and effectual execution of the old eſtabliſhed Law of our Founder, ought in reaſon to find the eaſier admittance.</p>
+                        <p>Only there is one Objection or two of ſome weight which I, muſt crave the patience of this honourable Aſſembly, to give me leave to diſcuſs, for the fuller clearing of all doubts, which may perplex the queſtion.</p>
+                        <p>The firſt is, that our Founder where he ſaith the Maſter muſt <hi>numero ſtare majori,</hi> adds <hi>[etiam &amp; ſaniori,]</hi> whence ſome may perhaps infer, that 'tis left to the Maſter to judg which is the ſounder part, and ſo if he relinquiſh the major part, and follow their advice whom he judgeth the ſounder part, he tranſgreſſeth not. But that this was an expoſition far from our Lawgivers intention, I ſhall demonſtrate by theſe Reaſons.</p>
+                        <p>Firſt, It's apparent the Founder intended this Statute mainly as a proviſion againſt the Maſters ſelf-wiſdom, upon which he ſaies, he ſhall not rely. Now therefore if the Maſter refuſe the major, and adhere to the minor part, only becauſe in his judgment the ſounder, he does in effect rely upon his own prudence, which is the thing our Founder forbids.</p>
+                        <p>Secondly, If the judgment of the ſounder part be left to the Maſter, the word <hi>majori</hi> may as oft as he pleaſes be made a meer non-ſignificant Cipher. If the Maſter propound a buſineſs to the whole number of Fellows, which is fourteen, &amp; can get but two or three (then which nothing is more eaſie) to ſide with him, he may cal thoſe few men the onl ſyound men of the Society, all the other eleven or twelve ſhall be eſteemed as factions or frantick, becauſe of their advice not ſuiting with his ends; and ſo that obſcure
+<pb n="12" facs="tcp:43591:14"/>word <hi>[ſani<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ri]</hi> ſhall, like one of <hi>Pharaohs</hi> lean Kine, ſwallow up the word <hi>majori,</hi> though fairer and better likin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, into its inſati<g ref="char:EOLhyphen"/>able ſtomack. So ſhall the Maſter contrary to the Founders will be made by his own eſtimate the <hi>Solus ſapiens,</hi> and ſupream Lord. The fellows, they are flattered with a ſpecious ſhew of liberty and co-partnerſhip in the Government, but are indeed like meer School-boys (ſuch would the King have made the whole Parlia<g ref="char:EOLhyphen"/>ment) called together to a poſing, not voycing, in which they muſt either comply with the Maſters will, or have their advice re<g ref="char:EOLhyphen"/>jected with ſcorn, and themſelves diſmiſſed with infamy, as crack<g ref="char:EOLhyphen"/>brain'd and unſound men.</p>
+                        <p>Therefore this being an interpretation ſo full of contradiction and inconſiſtency both to the general current of this Statute, and particular, contexture of the ſentence it ſelf, the word <hi>ſaniori</hi> cannot be underſtood, but is either a meer word of formality, or to ſay the moſt, was added only as a <hi>Proviſo,</hi> where 'twas impoſſible to determine which was the major part, as where the num<g ref="char:EOLhyphen"/>ber of Fellows on both ſides was equally divided, that there the Maſter might encline to that part which he ſhould judg the ſounder.</p>
+                        <p>But that by the word <hi>ſaniori</hi> is not meant at all a reference to the Maſters judgment, but that 'twas rather a meer word of form affected by the ſolemn gravity of thoſe times, will appear ſeveral ways, As,</p>
+                        <p>Firſt, From our eighteenth Statute, where our Founder, treat<g ref="char:EOLhyphen"/>ting of licenſe to be given to two of our Fellows to travel, ſhuf<g ref="char:EOLhyphen"/>fles the Maſter and Fellows all into one pack, and ſays that they (the Maſter and Fellows, or the major and ſounder part of them, ſhall have power to give this licenſe. His words are theſe,  <q>
+                              <hi>Nos principatitor hoc attente, dictis Magiſtre, &amp; Scholuribus potoſta<g ref="char:EOLhyphen"/>tem &amp; licentiam impartimur: quod ipſi vel ſaltem major pars, &amp; ſanior corundem, ſi hoc Domini &amp; Scholaribus expedire viderint, unum vol duos Scholares domûs hoc p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ntes, ſi ad hoc ſuo judicio fuerint habiles licentiare valeant.</hi>
+                           </q>
+                        </p>
+                        <p>Here you ſee the Maſter is cleerly levell'd as one man with the reſt of the Society: The expreſſion runs not, as in ſome Statutes, <hi>Magiſter &amp; maior ac ſanior pars Scholarium,</hi> but <hi>maior &amp; ſanior pars Magiſtri &amp; Scholarium,</hi> the greater and ſounder part of the Maſter and Fellowes put together: ſo the Maſter being here made
+<pb n="13" facs="tcp:43591:14"/>a party in the Scrutiny, is incapable of being a Judge in the ſame: and therefore in all probability the word <hi>ſaniori</hi> is, as I ſaid, put in by the Founder only as a word of courſe, a meer <hi>ſynonima,</hi> an expreſſion affected by the gravity of thoſe times in which he lived.</p>
+                        <p>And further, that this is no bare conjecture of mine, but ra<g ref="char:EOLhyphen"/>ther a truth evidenced with us by experience of all times, the firſt of all the Univerſity Statutes entituled <hi>De modo ſtatuendi,</hi> which I have here copied out of the Proctors book, will make it very e<g ref="char:EOLhyphen"/>vident.</p>
+                        <p>That <hi>De modo ſtatuendi</hi> runs thus:</p>
+                        <p>
+                           <q>
+                              <hi>Authoritate totius <g ref="char:V">Ʋ</g>niverſitatis Cantabrigienſis tam Regen<g ref="char:EOLhyphen"/>tium quàm non Regentium, ordinatum eſt, quòd in ſtatuendis rebus &amp; negotiis utilitatem communem dictae Vniverſitatis concernenti<g ref="char:EOLhyphen"/>bus ſolum illud pro Statuto habeatur, quod de conſenſu maioris &amp; ſanioris partis dictorum Regentium, &amp; de conſenſu non Regentium fuerit decretum per Statutum.</hi>
+                           </q>
+                        </p>
+                        <p>And I have here ready to produce, if need be, a ſufficient number of preſidents ſhewing the obſervation of this Statute in ſeverall ſanctions from time to time, all which bear the ſtile of the major and ſounder part of Regents and Non-Regents: yet the con<g ref="char:EOLhyphen"/>ſtant tenour of our Univerſity proceedings witneſſes that the ma<g ref="char:EOLhyphen"/>jor and ſounder part were never look'd at as two diſtinct noti<g ref="char:EOLhyphen"/>ons, and left to the Vicechancellors and Proctors diſcretion to determine of; but that the major part was alwayes (and as I can prove by another Statute ought to be) adjudged the ſounder, and whatſoever was decreed by the major number of voices, paſt al<g ref="char:EOLhyphen"/>wayes for an act of the Univerſity without exception. And for the truth of this aſſertion, I appeal not only to thoſe of our So<g ref="char:EOLhyphen"/>ciety, men of great ſtanding, here preſent, but to all that e<g ref="char:EOLhyphen"/>ver have long reſided as Maſters of Art in the Univerſity: yea and to Doctor <hi>Seaman</hi> himſelf, if he has ſeen ſo many Congre<g ref="char:EOLhyphen"/>gations as to make him a competent witneſſe in this matter.</p>
+                        <p>So the advantage of that expreſſion for the aſſumption of a negative voice being now I hope cleary remov'd, I ſhall procced to the laſt objection urg'd, and chiefly relied upon by the Maſter, which is, that the Univerſity Statute allowes all Maſters of Col<g ref="char:EOLhyphen"/>ledges a negative voice.</p>
+                        <p>The Statute for your memories ſake I ſhall again rehearſe.</p>
+                        <pb n="14" facs="tcp:43591:15"/>
+                        <p>
+                           <q>
+                              <hi>In omnibus &amp; ſingulis electionibus tam Sociorum, Diſcipulorum, Scholarium, Officiariorum, Lectorum, reliquorum<expan>
+                                    <am>
+                                       <g ref="char:abque"/>
+                                    </am>
+                                    <ex>que</ex>
+                                 </expan> membrorum cuiuſque Collegii, quàm in omuibus &amp; ſingulis locationibus, &amp; conceſſionibus quibuſcunque neceſſarsò requirendus eſt Magistri fi<g ref="char:EOLhyphen"/>ve Praepoſiti illius Collegii aſſenſus &amp; conſenſus.</hi>
+                           </q>
+                        </p>
+                        <p>This is as much of the Statute as concerns the queſtion in hand.</p>
+                        <p>This Statute will, I know, to al that read it at firſt ſight ſeem an Argument invincible.</p>
+                        <p>But I ſhall notwithſtanding orave leave to ſay ſomewhat in anſwer to it, not doubting but before I have done I ſhall make it appear as contemptible, as now it ſeems formidable. As,</p>
+                        <p n="1">1. Firſt, That every Colledg being a diſtinct Corporation by it ſelf, and Laws preſcribed for its Government by him that found<g ref="char:EOLhyphen"/>ed or endowed it, it may well be queſtioned whether thoſe Laws of any of them can be taken away or ſuperſeded by any general Statute of the Univerſity. And this I do the rather queſtion, becauſe the Univerſity hath in former Statutes ſhown it ſelf very tender of the infringement of the particular Statutes of Cuſtoms of private Colledges; as appears by the laſt clauſe of a Statute <hi>de expulſis in ali a Collegium non recipiendis,</hi> which Statute though in it ſelf moſt rational, and fit to have a binding power over all, yet did not the Univerſity think fit to paſs it without this additional <q>
+                              <hi>Salvo, Ne<expan>
+                                    <am>
+                                       <g ref="char:abque"/>
+                                    </am>
+                                    <ex>que</ex>
+                                 </expan> intendimus per praeſens Statutum, Statutis, Constitutionibus, Compoſitionibus cateriſ<expan>
+                                    <am>
+                                       <g ref="char:abque"/>
+                                    </am>
+                                    <ex>que</ex>
+                                 </expan> Colligiorum, in aliud derogdre:</hi> Nor is it our meaning by this preſent Statute to de<g ref="char:EOLhyphen"/>rogate ought from the Statutes, Conſtitutions, and other Com<g ref="char:EOLhyphen"/>poſitions of particular Colledges.</q>
+                        </p>
+                        <p>Beſides, it hath formerly been the declared Opinion of ſome of the wiſeſt of our Univerſity, that the Vice-chancellor, who is our chief Officer in the Government of the Univerſity, cannot exerciſe his Juriſdiction within the walls of a private Colledg.</p>
+                        <p>Now it ſeems irrational to think that the Univerſity Statutes ſhould claim a Power paramount to the local Statutes of thoſe places, where yet the chief Officer entruſted with the execution of thoſe Laws that lay claim to this ſupremacy, can find no en<g ref="char:EOLhyphen"/>trance.</p>
+                        <pb n="15" facs="tcp:43591:15"/>
+                        <p n="2">2. Our Colledg Statute is of a far ancienter ſtanding then this Univerſity Statute; and therefore though this of the Univerſity ſeems to thwart it, yet being made without any clauſe of a <hi>non obſtante,</hi> the Colledg Statute lies unrepealed, and therefore in full force, eſpecially our Colledg Statutes being revis'd and con<g ref="char:EOLhyphen"/>firmed at the ſame time with the Univerſity Statutes, and by the ſame Viſitors, as I ſhall, if it be thought needful, make it ap<g ref="char:EOLhyphen"/>pear.</p>
+                        <p n="3">3. This Statute is none of our ancient Statutes of the Univer<g ref="char:EOLhyphen"/>ſity, but one of very late ſtanding, no ancienter then the tenth year of Queen <hi>Elizabeths</hi> Raign, for in all our Statutes till that time (as I am well able to ſay, having lately ſearched the Proctors book to that purpoſe) there appears no footſtep of it; nay not in the firſt new model of our Statutes which, was made <hi>primo Eli<g ref="char:EOLhyphen"/>zabethae.</hi> For our Reformers being then but newly come out of the furnace of the Marian perſecution, were not yet mounted to that height of ambition: but about ten years after growing warmer and fatter in their great preferments, the Heads of Colledges did its likely upon plea, that our Univerſity-ſtatutes were not e<g ref="char:EOLhyphen"/>nough refin'd from Popery, &amp; that new Diſeaſes ſtood in need of new Remedies, got a revivall of the commiſſion granted formerly <hi>primo Elizabethae</hi> for another new modelling of them, in which though for pomps ſake the Commiſſioners appointed for that work were ſome of them, as <hi>Cecil, Cook,</hi> and <hi>Haddon</hi> of the Queens privy Councel; yet the reſt of them being Doctors of Law, Phyſick, and Divinity, and two of them Divinity Profeſſors of the Univerſity, no man that is not blind, and knows not how little leiſure thoſe greater Stateſmen had to labyrinth their brains with all the tedious <hi>anfractus</hi> of that Theory, but will ſay that the main Engines, and the very both <hi>prima &amp; ſecunda mobilia</hi> in this laſt new Model were the Heads of Colledges alone; and they having now gotten this ample power into their own hands, did, together with the publick Reformation, cunningly interweave their own private advancement; and in purging us of Popery, did, like thoſe <hi>Medicamenta maledicta,</hi> emunge the body of the Univerſity of ſome of their moſt eſſentiall and fundamentall pri<g ref="char:EOLhyphen"/>viledges;</p>
+                        <p>As for example.</p>
+                        <pb n="16" facs="tcp:43591:16"/>
+                        <p>The choice of a Vice-Chancellor, which was before in the whole body of Regents, they got in this Reformation a Mono<g ref="char:EOLhyphen"/>poly of it to themſelves, ſo as the body of the Univerſity hath only left them a bare ſuperficies of election, but the ſubſtance they got into their own hands; for by this new Reformation, they got themſelves the nomination of two, one of which the Univerſity is neceſſitated to elect, and if they doubted of him, whom they deſir'd to have elected, 'twas but nominating ſome one diſtaſted or contemn'd man for a ſtale, and then they were ſure to carry it for ſuch one of thoſe two nominated, as they ſhould think fitteſt.</p>
+                        <p n="2">2. Another great priviledge, whereof they depriv'd the Body of the Univerſity, was the interpretation of Statutes, which be<g ref="char:EOLhyphen"/>fore except in a few caſes, was as well as the making of Statutes in the body of the Univerſity; but in this new Modell, the heads got a Monopoly of it intitely to themſelves.</p>
+                        <p>And if I miſtake not that ſtrange Statute of the <hi>Caput Senatus,</hi> conſiſting of the Vice-Chancellor, and five others choſen by the heads of Colledges, and the two Scrutators out of fifteen perſons nominated by the Vice-Chancellor, and Proctors, and all this without the leaſt advice or privity of either of the two Houſes, and theſe five men entruſted, every one with more then a Nega<g ref="char:EOLhyphen"/>tive voice (for nothing, be it never ſo juſt or neceſſary to the com<g ref="char:EOLhyphen"/>mon good, or of particular perſons, can be ſo much as propoun<g ref="char:EOLhyphen"/>ded to the Houſes, till every ſingle man of theſe hath given his poſitive conſent) is of the ſame date. If but one of theſe deny, though giving no reaſon, the concurring voices of the Vice-Chancellor, and the other four are of no force, the motion is ſtiffed in the very cradle, a thing of not care practiſe among us; Now this Stature, if conſidered in its full latitude, will, I think, be found of no longer ſtanding then that new model. Something there was of a like nature before, but if compared with this, will be found vaſtly different; For that had for its object onely <hi>tempus &amp; formam,</hi> but this, Conceſſions of all natures: in that the nega<g ref="char:EOLhyphen"/>tive was in three, here in any one.</p>
+                        <p>And laſtly, to fill up the meaſure of their iniquity, they did like<g ref="char:EOLhyphen"/>wiſe as much as in them lay, defraud thoſe Societies, where the Founders had inricht them with that unvaluable treaſure, of their
+<pb n="17" facs="tcp:43591:16"/>precious liberties; and with their ſpoyls, ſacrific'd to their own ambition, made every Maſter of a Colledge and abſolute Monarch, and the Societies their Vaſſals.</p>
+                        <p>Thus miſerably were the poor Fellows of Colledges deluded and oppreſſed; but to complain was no boot.</p>
+                        <p>Theſe mens potency at Court was ſuch, and ſuch was the re<g ref="char:EOLhyphen"/>verend eſteem had of them there, that to have ſpoken ought in derogation of them, or their proceedings, would have been deem<g ref="char:EOLhyphen"/>ed blaſphemy, but eſpecialy for one of no higher condition, then a Fellow of a Colledge to have appear'd in publick in his Ruſſet-Coat againſt theſe grand ſilken Rabbies, had been to have expos'd himſelf only to laughter or ruine.</p>
+                        <p>But the Court-prerogative, the root of all theſe oppreſſions be<g ref="char:EOLhyphen"/>ing now dig'd up, theſe excrementitious branches will, I hope, be thought fit to be removed with it: beſides nature teaches us, than each evill is beſt cured by its contrary: therefore it having been laid open clearly before you, how the Monarchs connivence at the fraud and corruption of its Repreſentatives was the cauſe of this diſtemper'd mutation. We hope for cure from the vigilant ſincerity of our true Republical-Magiſtrates, by the anulment, if need be, of that Statute, and reſtauration of each Colledge to at leaſt that ancient wholeſome <hi>Craſis</hi> of Liberty it was created in by its firſt Founder.</p>
+                        <p>I ſpeak not this to caſt any the leaſt prejudice upon that good work of Reformation in Religion, for which I cannot but ſay the Nation owes much thanks to the endeavours of all thoſe Re<g ref="char:EOLhyphen"/>verend Divines, that were ſo happy inſtruments in it. But we ſee the experience of that proverbial ſentence, <hi>Nullum magnum in<g ref="char:EOLhyphen"/>genium ſine mixturâ inſaniae.</hi> The beſt of men are but men. This whole World, and the heart of every man in it, is nought elſe but a Champaigne, where good and evill, light and darkneſs, contend for victory; and ſo where God hath his Church, the Devill will erect his Chappel as a Fort to lay battery againſt it. So in all Re<g ref="char:EOLhyphen"/>formations the greateſt inſtruments in it will alwayes (if they be not by themſelves, or others narrowly look't to) carry on ſome deſign of their own private, an attendant at leaſt, if not corrivall to that of the publick. Beſides we know how the people of God,
+<pb n="18" facs="tcp:43591:17" rendition="simple:additions"/>who immediatly upon their deliverance from <hi>Pharaoh,</hi> and the Red-Sea, did nothing, but in humility of heart, worſhip and ſing praiſes to God their Deliverer, were obſerv'd afterwards upon a little proſperity to have forgotten God; to have waxen fat and kick'd. And of our Reformers, about that <hi>Decade,</hi> it may juſtly be queſtion'd. Whether thein zeal in preſerving the Reformation begun, were more to be commended, or their ambition in obſtru<g ref="char:EOLhyphen"/>cting its further progreſs and perfection to be condemn'd.</p>
+                        <p>But above all I deſire to be underſtood, not to intend any the leaſt reflection of blame upon thoſe reverend Gentlemen and Mi<g ref="char:EOLhyphen"/>niſters, the preſent Heads of Colledges in our Univerſity, for as they had no hand in procuring of thoſe incroachments, ſo neither that I know of, have they ever made ill uſe of that power vvhich their Predeceſſors ambition had purchas'd to their hands: For though they have, by the laſt Statute I told you of, the full power of interpretation of Statutes within themſelves, and there was a time, when they might have uſed it with applauſe, in that excel<g ref="char:EOLhyphen"/>lent interpretation of our Univerſity Oaths, whereby mens con<g ref="char:EOLhyphen"/>ſciences, indanger'd to perjury upon every penal ſtatute, were much eas'd, yet to my beſt remembrance, they did not aſſume to themſelves, but yielded to the whole body of the Univerſity the honour of alleviating this grievance.</p>
+                        <p>Nay this I muſt needs ſay, to the honour of all thoſe Heads of other Colledges, except our own, that I conceive 'tis nothing but their honeſt and prudent carriage in their ſeveral charges, which is the cauſe that none of the Univerſity (none having the like particular cauſe of complaint) appear as yet in this cauſe to de<g ref="char:EOLhyphen"/>ſire thoſe proviſions againſt Tyranny, petition'd for in our Col<g ref="char:EOLhyphen"/>ledge, For 'tis not evils in <hi>poſſe,</hi> though of the neareſt probability, but thoſe in <hi>eſſe</hi> that ſtir up the generality of men to the inventi<g ref="char:EOLhyphen"/>on of remedies. In other Colledges where the Maſters have by ſtatute or cuſtome a negative voyce, yet they have choſen rather to wave ſometimes their own, not intereſt onely, but judgment too, then make uſe of it, and in the very propoſitions of queſtions to be ſwayed by the publick reaſon of their Societies.</p>
+                        <pb n="19" facs="tcp:43591:17"/>
+                        <p>And if our Head had behav'd himſelf with the like candor and moderation in his truſt you had not I think been troubled with theſe tedious diſputes at this day: but our Head though, as you have heard, denyed a negative voice by our Law-giver, will yet uſurp it, propounding onely what he pleaſes himſelf, and after the vote paſt, following his own, not the common prudence of the Society, as ſhall be amply proved (if need be) in its proper place. Beſides, we ha<g ref="char:EOLhyphen"/>ving in the general courſe of this mans Government, obſerv'd no<g ref="char:EOLhyphen"/>thing of a publike Spirit, ayming at the common good, but rather a conſtant tenor of cloſe diſſimulation and greedy intentiveneſs upon all advantages of not onely holding faſt in every punctillo, but ad<g ref="char:EOLhyphen"/>vancing ſtill further, the grand intereſt of his power and profit; and that as far as humane wit could gueſs of mans heart by its fruits, the two great poles of his whole revolution were dominion and cove<g ref="char:EOLhyphen"/>touſneſs (of which upon many ſiniſter dealings of his, there's not three men of all our Society that have been the conſtant obſervers of his College-tranfactions this ſeaven years but have at one time or other expreſt their deep reſentment) this is that has occaſion'd this extraordinary petition for a juſt reſtraint of this exorbitancy of an aſſum'd power within thoſe bounds our Law-givers wiſdom had preſcribed to it, with ſome concurrent helps for the ſurer execution of his declared will: "<hi>Ex malis moribus ortae ſunt bonae leges.</hi> 'Tis the greateſt glory of good magiſtrates, that they can, in imitati<g ref="char:EOLhyphen"/>on of him whoſe image they bear, bring forth good out of evil, light out of darkneſs; and like the Sun in the Firmament, produce good Laws out of an equivocal brood of corrupt manners.</p>
+                        <p>Theſe things I thought it convenient by way of diverſion to ſug<g ref="char:EOLhyphen"/>geſt, not that the cauſe ſtands in need of it, but onely to open your eys, that you might ſee how this Antichriſtian myſtery of the nega<g ref="char:EOLhyphen"/>tive voice began its working betimes, even neer the Apoſtolick dayes of Reformation.</p>
+                        <p>For to the very letter of the Statute as it ſtands, I am not without a very ſatisfactory anſwer.</p>
+                        <p>For it ſays not poſitively, that all Conceſſions, Elections, <hi>&amp;c.</hi> ſhall be Null which want the Prefects conſent; but that in all Elections, Conceſſions, <hi>&amp;c.</hi> the Prefects conſent is neceſſarily to be required. Now we know that that word is of the ſame nature with <hi>Poſtulo</hi> in Latin, and ſo implies rather that the Prefects conſent is to be required
+<pb n="20" facs="tcp:43591:18" rendition="simple:additions"/>of him <hi>de jure,</hi> as a right, then begg'd as an act of grace, as if the Societies conſent without his <hi>Le Roy le veult</hi> were of no force.</p>
+                        <p>And this anſwer in theſe times wherein all Statutes ought to be in<g ref="char:EOLhyphen"/>terpreted in favour of liberty, as they were formerly in favour of Pre<g ref="char:EOLhyphen"/>rogative, might alone ſuffice. But I ſhall add another of more convincing evidence; Which is this.</p>
+                        <p>That granting the intent of this Statute was to make the Maſters conſent a neceſſary ingredient to the compoſition of each Election or Conceſſion, <hi>&amp;c.</hi> yet it abſolves them not from that obliging power which lies upon them by any of their local Statutes to conſent to what is advis'd by the major part of their Societies, but that by refuſal of ſuch conſent they incur the guilt of perjury and breach of truſt or ſuch other penalty as their Founders providence hath allotted for the eſtabliſhment of that Law; and therefore this obligation to conſent remaining ſtill in full force, ſuppoſes in the major part the Prefects conſent legally involv'd and included.</p>
+                        <p>As to compare the greater with our ſmaller controverſies, the Kings conſent was always ſuppos'd to be legally included in the major vote even of the moſt petit Tribunal much more of the grand Judicatory of the whole Nation, though never ſo much perſonally diſſenting: which principle hath been always eſteem'd one of the main pillars of our cauſe upon which alone we might lay the whole ſtreſs of not one<g ref="char:EOLhyphen"/>ly the juſtice and lawfulneſs but even legality of our war. But this man who no doubt hath more then once with our once-Brethren of <hi>Scotland</hi> voted the King a man of blood, and guilty of all the blood<g ref="char:EOLhyphen"/>ſhed of this war, for endeavouring but to aſſert this power to him<g ref="char:EOLhyphen"/>ſelf (though far more favoured by the the ſtanding Laws of the Kingdom at that time, then with us by our Statute) yet hath not ſcru<g ref="char:EOLhyphen"/>pled to do the ſame thing himſelf, both in his particular practice in the Colledge, and by his appearance here with all his intereſt and wit to maintain this prerogative.</p>
+                        <p>But to return to the point.</p>
+                        <p>This point having been fully clear'd up to you out of our local Statute, that our Maſter is bound to conſent to the vote of the ma<g ref="char:EOLhyphen"/>jor part, that expreſſion of the Univerſity-Statute will now I hope create no prejudice.</p>
+                        <p>And this anſwer may likewiſe ſatisfie another argument for the negative voice, which may poſſibly be drawn from our Statute of Elections, which requires <hi>Conſenſum Magiſtri, &amp; major is part is
+<pb n="21" facs="tcp:43591:18"/>ſociorum,</hi> and ſome others running in the ſame ſtrain. For the true ſence of that Statute <hi>de ardius</hi> being now fully clear'd, makes it ap<g ref="char:EOLhyphen"/>parent, that in the conſent of the major part of the Society, the Ma<g ref="char:EOLhyphen"/>ſters conſent always is or ought to be included.</p>
+                        <p>And now having I hope removed all doubts and objections, I ſhall now deſire leave to ſpeak a word to my ſixth motive for granting my Petition, <hi>viz.</hi> the danger leſt this root of corruption left among us, ſhould hence ſpread it ſelf again to infect the whole Nation. This I confeſs may ſeem at firſt ſight but a meer flouriſh of Rhetorick, or far-fetcht ſtrain of melancholy; but I ſhall make it appear, there's much of reality in the aſſertion.</p>
+                        <p>'Tis an humour you all know the moſt of mankind are much inci<g ref="char:EOLhyphen"/>dent, to, to labour the promotion and propagation of the forms, opi<g ref="char:EOLhyphen"/>nions, and cuſtomes of thoſe places where they live, eſpecially where they have been train'd up in their younger years; and therefore it was the policy of the contrivers of our former Government (as know<g ref="char:EOLhyphen"/>ing that that Government could never be durable which had not its image ſtampt upon the peoples affections) to ſet up the image of that univerſal Government of the State in every petty combination of men. Hence as a reflected image of the then-preſent Government by King and Councel, King and Lords, or King and Parliament, was ſet up that Government of Corporations by Maior and Aldermen, Dean &amp; Chapter, Maſter and Fellows; and in Corporations, Maſters and War<g ref="char:EOLhyphen"/>dens of particular Companies; all which were nothing but the general frame of the State-Government contracted as to the matter onely into a narrower compaſs; and this was that that fixt the love of Monar<g ref="char:EOLhyphen"/>chy ſo faſt in the affections of moſt Corporations, that had it not been that the King had diſpleaſed ſome of the greateſt of them by hard im<g ref="char:EOLhyphen"/>poſitions upon them in way of their Trade, and withall let looſe his Biſhops to exerciſe their tyranny in trampling upon the faces of their reverenc'd Miniſters, they had never been brought off to draw ſword againſt their Prototype; and after they had done it, its obſervable how prone the great ones among them were often to defection, and how zealous in ſhewing their diſtaſte at the removall of that great Idol; of all which the King was very ſagaciouſly ſenſible in the be<g ref="char:EOLhyphen"/>ginning of theſe wars, when in a propoſal of his to part with the Mi<g ref="char:EOLhyphen"/>litia upon ſome proviſoes, yet would by no means conſent to take the Militia's of Corporations out of their own hands: yet were not the Chiefs of thoſe Corporations ſuch perfect images of Monarchy, as
+<pb n="22" facs="tcp:43591:19"/>ours, either for power, or durance; thoſe were indeed but ſhadows of it; but ours, in regard of their continuance in truſt during the term of their lives, were its living images, wanting nothing but an eſtabliſh<g ref="char:EOLhyphen"/>ment of it in their poſterity, which yet they bid fair for too, when in that new <hi>Elizabeth</hi>-Reformation wherein they did in a poſitive inhibition of Fellows from Marriage handſomely imply a leave in<g ref="char:EOLhyphen"/>dulg'd to themſelves.</p>
+                        <p>But it may be ſome will look at this Argument as a great Mallet lifted up to kill a Fly: Our Corporations you will ſay are ſmall, and inconſiderable, a meer Synedrion of young Youths, or handfulls of poor contemplative men ſyſteem'd up for Orders ſake into the form of a Corporation; what good or ill can redound from theſe to the whole Nation?</p>
+                        <p>But I ſhall eaſily make this appear to be a miſpriſion, and that there will be more and greater danger from neglect to remedy this evil in our ſmaller bodies, then from the moſt populous City of the whole Nation.</p>
+                        <p>For our Corporations, though but ſmall in bulk, are like thoſe grains of Muſtard-ſeed our Saviour ſpeaks of, of a vaſt, comprehen<g ref="char:EOLhyphen"/>ſive, and multiplying capacity. The members of thoſe great Corpo<g ref="char:EOLhyphen"/>rations are men it's true of abler purſes, and ſtronger bodies for the preſent State-ſervice; but their abilities are confin'd all within the narrow bounds of their own territory; but ours are Seminaries of able wits which are ſent to us from all parts of the Nation, in the very nick of their firſt emerſion from the ſlavery of the Ferula into a ſtate of liberty, at the firſt putting on of their conſidering caps, they being as yet <hi>abraſe tabula,</hi> ſmooth tables, prepar'd to receive of us thoſe tinctures of good or bad principles; with which impreſſions ſtampt upon them, they afterwards ſpread themſelves into every corner and quarter, to leaven the whole Nation. No man educated among us, but goes away inſtructed for ſome publike truſt but is in capacity, to be an <hi>Abraham,</hi> a Father of many Nations.</p>
+                        <p>Therefore it concerns you very-deeply, who deſire not by arms on<g ref="char:EOLhyphen"/>ly, but by principles, to root up Regality, and mold the Nation into a true Commonwealth-frame, to pull down (by taking away its de<g ref="char:EOLhyphen"/>ſtructive power) this image of it in thoſe Fountains of Youths educa<g ref="char:EOLhyphen"/>tion, leſt the youth of the Nation coming in their ſouls choiceſt preg<g ref="char:EOLhyphen"/>nancy to drink of our waters, enamour'd of that idoll, conceive and
+<pb n="23" facs="tcp:43591:19"/>bring forth its Antitype, as heir male to their ſtrongeſt affections and endeavors, to be promoted again to its loſt inheritance, when time and opportunity ſhall ſerve.</p>
+                        <p>And for the ſame reaſon does it deeply concern you to take ſpe<g ref="char:EOLhyphen"/>cial care of the Society of Colledges, and not give away Fellowſhips, being you ſee places, though of ſmall profit yet of high truſt to every begger that comes to you with a formal Certificate, much leſs to con<g ref="char:EOLhyphen"/>fer theſe high truſts upon Samaritans and meer ſlaviſh compliers, but eſpecially to tender their precious liberties as the apple of your eye, to which nothing can be more inconſiſtent, then a negative voyce plac'd in any one man; for let any of the Society approve himſelf never ſo active and induſtrious in promoting the Colledge good, and with his utmoſt pains and skill train up his Pupils to the moſt eminent pro<g ref="char:EOLhyphen"/>ficiency in piety and learning, yet if he will not flatter, and fawn, crowch and cringe, and comply with this one great Monarch, even to a betraying of the common Freedome to his corrupt ends of pride or covetouſneſs, he lives an unſerviceable man, and all thoſe edu<g ref="char:EOLhyphen"/>cated under his charge are put into an impoſſibility of ever attaining that preferment their deſerts ſhall make them capable of. Though the whole community, or far greater part, judge them worthy of it, one mans <hi>non placet</hi> ſhall blaſt all: and how great a temptation this will be even to ſome not diſ-ingenuous men (being not willing to expoſe thoſe under their truſt to contempt and beggery) to worſhip the Image of that great beaſt, I leave to your wiſdoms to judge; as likewiſe, whether ſuch an impreſſion of ſlavery fixt upon the ſpirits of Fellows of Colledges be not like to impreſs its counterfeit upon thoſe educated under their truſt, and by their means upon the greateſt part of the Nation.</p>
+                        <p>Another motive giue me leave to preſent you with, which though omitted in my Petition is of great conſequence, being drawn from the principles of univerſal reaſon, which will ſay that every parti<g ref="char:EOLhyphen"/>cular mans intereſt of the Society being every way equal to that of the Maſter, nay in ſome reſpects far greater, (for the Maſter is but one ſingle perſon; but every Fellow having pupils under his charge, is a kind of Corporation by himſelf) 'tis a thing contrary to common ſenſe that his one voyce ſhould be laid in the balance to overſway the ma<g ref="char:EOLhyphen"/>jor part of the Society.</p>
+                        <p>There was once a cuſtome in ſome Corporations (of which our ſelves have yet in our Colledge ſome ſhadows left) that not the War<g ref="char:EOLhyphen"/>den
+<pb n="24" facs="tcp:43591:20" rendition="simple:additions"/>or Maſter onely but every ſingle man of the Society had a nega<g ref="char:EOLhyphen"/>tive voyce, which upon this very ground, as contrary to the common Law of the Land, <hi>i.e.</hi> to common Reaſon, was taken away by an Act of Parliament, 33. <hi>H.</hi> 8. onely I conceive in tenderneſs to the Pre<g ref="char:EOLhyphen"/>rogatives of Monarchy, much favour'd throughout the whole body of our Laws, the Statute was ſo pen'd, that the Maior, Maſter or Warden had his Negative left him; but now we have no Monarchy, whoſe priviledges we ought to be tender of, and there's every way the ſame reaſon, nay far more, for deveſting the ſingle Warden of his Ne<g ref="char:EOLhyphen"/>gative, then for taking it away from ſo many members conjunctive, as may amount to neer the half of the Society.</p>
+                        <p>One word more I deſire to add as an inforcement of my Petition, that of all Maſters of Colledges in the Town, there's leaſt reaſon the Maſter of our Colledge ſhould claim to himſelf this grand Preroga<g ref="char:EOLhyphen"/>tive of a Negative voyce; for the whole burden of the Colledge-go<g ref="char:EOLhyphen"/>vernment hath for all theſe ſeven years layed wholly upon the ſhoul<g ref="char:EOLhyphen"/>ders of the Preſident and Fellows.</p>
+                        <p>The Maſter hath held his place now for about ſeven years, yet he hath never once that I know of reſided among us for ſix weeks, nay not one moneth, ſeldome above a fortnight together at one time; hath ſeldome or never viſited us, but either when he was neceſſitated to it, either to ſupply his courſe in the Univerſity-Church, or to audit our Accounts, and receive his money: All his ſhort viſits put together for this whole ſeven years, will not mount to one years continu<g ref="char:EOLhyphen"/>ance.</p>
+                        <p>For which prodigious abſence of his from his charge, all he can ſay is onely his being Benefic'd in <hi>London,</hi> or an Aſſembly-man, or that he hath been employed in Colledge-affairs.</p>
+                        <p>Now for Colledge-affairs, in thoſe we have, it's true, made ſome ſmall uſe of his being at <hi>London,</hi> but never impow'red him to reſide at <hi>London</hi> for that purpoſe; nor was there need; for nothing was ever done by him, which a common Solliciter for a ſmall fee would not have performed as well, or better, eſpecially being ſufficiently furniſht with his inſtructions or Letters to Councel at Law, or ſuch great men as were to have addreſſes made to them in caſes of need.</p>
+                        <p>And for his Benefice and Aſſembly-man-ſhip, there's no reaſon ei<g ref="char:EOLhyphen"/>ther of them ſhould be a protection to ſave him from an Arreſt for that debt of Reſidence he owes the Colledge, from whence he has had ſo conſiderable ſubſiſtence; for one of them being a place (by com<g ref="char:EOLhyphen"/>mon
+<pb n="25" facs="tcp:43591:20"/>fame) of one, if not two hundred pounds a year, the other of four ſhillings a day, it ſeems not very reaſonable, that one ſo againſt Pluralities, ſhould enjoy the revenue of all three places, and bear the burden but of two. For he hath all this time of his diſcontinuance laid in a manner the whole burden of his Colledge-Office upon the Preſidents back, not allowing him for his pains ſo much as one peny.</p>
+                        <p>Beſides, it may be anſwered that all the other Maſters of Colledges, who yet were many of them Aſſembly-men as well as he, have been far more conſtant continuers at their reſpective charges, and have ſome of them as I think relinquiſh't conſiderable Benefices they were poſſeſt of otherwhere, that they might the more ſolely attend their charges at <hi>Cambridge:</hi> And I'm ſure ours hath not wanted all the encouragement we could give him to enable him to it, having out of our common poverty conniv'd ever ſince our coming to the Colledge at his taking a double portion of our Dividend though neither allow<g ref="char:EOLhyphen"/>ed him by our Statute nor any conſtant Preſident beyond the ſecond year of Doctor <hi>Coſens</hi> his time.</p>
+                        <p>Now that this man who is apparently of no uſe to the Colledge, whoſe ſervant he ſhould be by the conſtitution, but reſides at <hi>London</hi> afar off, making uſe of the Colledge onely as a prey, and his title onely as a hook to draw power and profit to himſelf, knowing little but by hearſay of the ſufficiency or inſufficiency, good or ill behavi<g ref="char:EOLhyphen"/>our of each member of the Colledge ſhould be thought fit to have a power ſuperior to the Society, who to their great charge reſide up<g ref="char:EOLhyphen"/>on the place, and bear the whole burden, 'tis a thing beyond the comprehenſion of a vulgar underſtanding.</p>
+                        <p>I have now done with all my motives.</p>
+                        <p>As to the Prayer of the Petition: having ſo amply expreſs'd my mind in it. I need not add much by way of Expoſition or Apology.</p>
+                        <p>Onely this: 'Tis not, as ſome may perhaps ſuggeſt, a fancie or new Model of my own brain, but 'tis a Model approv'd of in a parallel caſe by the reaſon of the whole Nations Repreſentative. It concerns every mem<g ref="char:EOLhyphen"/>ber of this honourable Aſſembly more then my ſelf to make it good; for 'tis nothing elſe from point to point, but a Series of ſuch particu<g ref="char:EOLhyphen"/>lars as the wiſdom of the whole Parliament judg'd neceſſary for the circumſtantiating that freedom which the City of <hi>London</hi> were de<g ref="char:EOLhyphen"/>barr'd of thorough the like want of proviſion in their Law: change bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> the name of <hi>London</hi> for <hi>Peter-houſe,</hi> ten of their numerous
+<pb n="26" facs="tcp:43591:21" rendition="simple:additions"/>Common-Councel for two of our ſeaven Seniors, and their [at any time] for our within 48 hours, and this draught will prove wholly the ſame with that Act of Parliament.</p>
+                        <p>Nor could leſs have been well deſired for taking away that hurtful Prerogative I diſpute againſt, which is not the bare name of a nega<g ref="char:EOLhyphen"/>tive voice, but the ſubſtance, <hi>viz.</hi> that ſupremacy of power, which our chief Officer claims above the whole or major part of the Commu<g ref="char:EOLhyphen"/>nity, which is of a Complex nature, and conſiſts of theſe three pow<g ref="char:EOLhyphen"/>ers, <hi>viz.</hi>
+                           <list>
+                              <item>Of calling of meetings.</item>
+                              <item>2. Of propoſing of queſtions.</item>
+                              <item>3. Of acting the reſults of thoſe meetings.</item>
+                           </list> Any one of which three powers remaining in the chief Officer, makes him as abſolute as if in<g ref="char:EOLhyphen"/>veſted with all three; and therefore the Parliament ſaw well in the Ci<g ref="char:EOLhyphen"/>ty of <hi>Londons</hi> caſe, that for the removal of that great evil, an eſta<g ref="char:EOLhyphen"/>bliſhment of all theſe particulars was of abſolute neceſſity.</p>
+                        <p>For to return to our former parallel, grant but to our once-chief Officer of State the ſole power of calling Parliaments, and binding them up to thoſe queſtions onely which he ſhall think fit to propoſe, hee'l not much deſire or ſtand in need of a negative voice, ſeeing he is able by either of thoſe two former powers, to cruſh in the egg any motion which he ſuſpects may in the leaſt infringe his prerogative, or other corruptions.</p>
+                        <p>So in our leſſer Commonwealth, though you ſhould grant or de<g ref="char:EOLhyphen"/>clare in general terms that the Maſter ſhall have no negative voice, and leave him but this power (for want of proviſion to the contrary) that by delay of meetings when moſt neceſſary, or by making him<g ref="char:EOLhyphen"/>ſelf judge of that neceſſity, or in thoſe meetings by refuſing ſuch queſtions as he likes not, he can keep us from ever coming to a voicing, or if after voicing he may refuſe or delay to act our determi<g ref="char:EOLhyphen"/>nations, and yet neither he liable to a ſufficient penalty for any of thoſe refuſals, nor we through the defect in our Statute inabled to meet, debate, or act any thing without him, he is an abſolute Monarch, and has a moſt firm poſſeſſion of a negative in reality, however de<g ref="char:EOLhyphen"/>nyed him in words. And for this reaſon it was that I have been ſo bold in the prayer of my petitions to be ſo punctually particular.</p>
+                        <p>Now if any man object that theſe things granted would be a cauſe of much tumult, and factious diſorders in our Colledge: I anſwer; The experience of the ſame in the City of <hi>London</hi> ſhows the quite contrary, where 'tis apparent nothing but the ſweeteſt ſtreams of unity, freedom and peace have iſſued out of this fountain:
+<pb n="27" facs="tcp:43591:21"/>For it lies onely as a dormant proviſo, like the <hi>major excommunica<g ref="char:EOLhyphen"/>tio</hi> of the Presbytery, <hi>in terrorem,</hi> never like to be put into Act, ex<g ref="char:EOLhyphen"/>cept in caſes of unheard-of obſtinancie. Whereas on the contrary the want of this proviſion has been the original of all our diviſions: nothing being the more natural fountain of contention amongſt men or bodies politick, then the want of certain bounds aſſign'd to each man or bodies proprietie; which made the wiſe Law-giver <hi>Moſes</hi> to denounce ſuch a fearful curſe upon the remover of Land-marks, and religious <hi>Numa</hi> to place <hi>Terminus</hi> the God of boundaries among his principal deities, and to erect him him a Temple, as I remember, next adjoyning to that of Concord.</p>
+                        <p>As for the laſt clauſe, which concerns Maſters and Preſidents ab<g ref="char:EOLhyphen"/>ſence, 'tis not onely almoſt the ſame with that in the Act for <hi>London,</hi> but was moreover a proviſo fitted more eſpecially to the preſent con<g ref="char:EOLhyphen"/>ſtitution of our Colledge, which hath oft: ſtood in great need of it, as I could inſtance in caſes of Conſiderable conſequence.</p>
+                        <p>And beſides that the making of ſome ſuch proviſion is a thing moſt agreeable to our founders will, who ſays expreſly that the Col<g ref="char:EOLhyphen"/>ledge ſhould not <hi>defenſore, &amp; rectore carere,</hi> the thing I aym'd at in this propoſal was the Preſidents eaſe and the Colledges conve<g ref="char:EOLhyphen"/>nience: for as I told you before, the Maſter being almoſt a conſtant non-reſident, and having power by Statute to make Preſident whom he pleaſes (which preſident is charg'd with the whole burden of his office) it will oft happen that this Preſident muſt either neceſſarily infer much prejudice in ſome affairs of his own requiring his preſence otherwhere, or the Colledge ſuffer much detriment for want of power to act as a living body in caſes of emergent need. For that our Colledge-debates ſhould be packeted up to <hi>London</hi> to a man ſitting there in his <hi>regalia,</hi> and looking at us afar oft, or that the life of our aſſemblies ſhould be derived from the ſpirit ſent from <hi>London</hi> in a cloth-bag, is a thing diſagreeable to common equity, and a flat contradiction to our Founders declared will.</p>
+                        <p>All I have to ſay further, is, that in this draught of my Petition, however diſpleaſing to our Reverend Maſter, I have had no ayms at his prejudice further then was of abſolute neceſſity to ſtate our free<g ref="char:EOLhyphen"/>doms and vindicate them from his unjuſt uſurpations. If I have here<g ref="char:EOLhyphen"/>in prejudic'd any, 'tis rather the Society, by allowing the Maſter ſo much as an affirmative voice, which ſome of us are of opinion that by our Statutes, if well underſtood, he cannot lay claim to. But be<g ref="char:EOLhyphen"/>ing deſirous in this matter to walk in an indifferent way, giving each
+<pb n="2" facs="tcp:43591:22"/>their reaſonable due, and to follow cloſe not mine own, but rather the publike wiſdom of the Parliament for my pattern; I doubt not of finding from them an eaſie pardon of my error.</p>
+                        <p>I have now done with the Petition.</p>
+                        <p>There was one motive for its enforcement refer'd to the laſt place, which was by ſhewing how the Maſter of our Colledge for want of theſe proviſions here petition'd for, had debar'd us of our manifeſt rights of treating in a Colledge-way about ſome affairs neerly con<g ref="char:EOLhyphen"/>cerning the common good, and of having our Reſolves put into due execution: And how both particular members, and the whole Col<g ref="char:EOLhyphen"/>ledge had ſuffer'd much prejudice by thoſe his uſurpations, which be<g ref="char:EOLhyphen"/>cauſe I thought, he might poſſibly deny, 'twas for this cauſe chiefly, that I troubled theſe Gentlemen of our Society to make their appear<g ref="char:EOLhyphen"/>ance before you. Theſe being they, who (except our Preſident, and one of our Deans left at home for the neceſſary affairs of our Colledge) make up the whole number of thoſe now reſident, who having been preſent at all our former and later tranſactions, are beſt able to bear witneſs to thoſe particulars I ſhall inſtance in.</p>
+                        <p>Yet becauſe I have I think already both overwearied your pati<g ref="char:EOLhyphen"/>ence, and laid before you reaſons enough of far greater conſequence for the enforcement of my Petition, my deſire is that there may ra<g ref="char:EOLhyphen"/>ther be a perpetual Amneſty of all our forepaſt grievances, and that our liberties may be ſo ſetled for the future, as each part knowing their due bounds, a true Chriſtian amity may be preſerv'd among us, and this honourable Committee freed from further trouble. And therefore except this honourable Aſſembly, or our reverend Maſter for the Vindication of his own repute, ſhall impoſe that task upon me, I ſhall wave this Argument, and leave it to your wiſdom to judge what has been already ſpoken.</p>
+                        <p>Onely to his Argument for the negative voice in ſuch particular caſes wherein he is appointed to conſult with the Deans onely, I can onely ſay, that 'twas not the prime Statute, but an interpretati<g ref="char:EOLhyphen"/>on of Statute made many years after by a ſingle Biſhop of <hi>Ely,</hi> which endowed the Maſter with this Prerogative. And it being beſides againſt the principles of Common freedom that an Officer conſtituted for term of life ſhould have this vaſt pre-eminence of two of the greateſt Colledge-Officers annually Elected to their truſts I ſhall in this following Petition which I here preſent you with as an appen<g ref="char:EOLhyphen"/>dix to my former, crave the aſſiſtance of your authority for the ſolu<g ref="char:EOLhyphen"/>tion of this knot.</p>
+                        <q>
+                           <floatingText xml:lang="eng">
+                              <body>
+                                 <div type="petition">
+                                    <head>To the Honourable the Committee for the Reformation of the <hi>UNIVERSITIES.</hi> The humble Petition of <hi>Charles Hotham</hi> Fellow of <hi>Peter-Houſe,</hi>
+                                    </head>
+                                    <opener>Sheweth,</opener>
+                                    <p>
+                                       <hi>THat whereas by our Colledge-Statutes there are about twen<g ref="char:EOLhyphen"/>ty particular caſes in which the judgement belongs not to the whole Society, but either to the Maſter and</hi> 5 <hi>or</hi> 6. <hi>Seniors, or to the Maſter and Deans alone, and that in all caſes wherein the Maſter and Deans are ſolely truſted, being many of them caſes of great concernment, the Maſter had by an interpretation made by a Biſhop, of</hi> Ely <hi>betwixt one and two hundred years after the foundation, a Negative voice confer'd upon him, which however agreeable to the policy of thoſe times, is contrary to the principles and grounds of our preſent Reformation, and eſtabliſhment of this Nation in form of a Commonwealth, and much prejudicial to the good and welfare of the whole Colledge</hi>
+                                    </p>
+                                    <p>
+                                       <hi>Your Petitioner doth further pray that the Negative voice of one man in all our Aſſemblies may be taken away root and branch, and that in all Elections and conſultations whatſoe<g ref="char:EOLhyphen"/>ver of the Maſter with the Fellows, Seniors, Deans, Rur<g ref="char:EOLhyphen"/>ſars, or any other, the determination of the major part of thoſe who have voices in that Election or conſultation, may be acquieſced in, as the Act of that Aſſembly.</hi>
+                                    </p>
+                                    <closer>And your Petitioner, with the whole Colledge, ſhall ever pray, <hi>&amp;c.</hi>
+                                    </closer>
+                                 </div>
+                              </body>
+                           </floatingText>
+                        </q>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="3" facs="tcp:43591:22"/>
+            <p>This laſt clauſe and Petition concerning the Maſter and Deans were, though here inſerted, yet forgotten to be delivered to the Committee.</p>
+            <p>My Argument ended, the Maſter made a long reply, the punctual repetition of which I muſt leave to his own memory and pen. It touch'd nothing upon any material point of my Argument, But was rather a deſcant upon my Petition, with ſome recriminations conſiſting to my beſt remembrance of theſe heads.</p>
+            <p>That he had aſſum'd no power that was not his own by Statute: as was the calling of meetings, <hi>&amp;c.</hi>
+            </p>
+            <pb n="30" facs="tcp:43591:23"/>
+            <p>That he had never ſhown any averſneſs from meetings, nor ever diſſolv'd any, but when the time itſelf diſſolved them.</p>
+            <p>That 'its true he had propounded queſtions according to his own ſence, but offer'd to others the ſame liberty of propounding queſtions in theirs.</p>
+            <p>That we muſt diſtinguiſh between the Major part of the whole Society, and the Major part of thoſe preſent, which ſometimes being but few in number, were not fit to make Acts obligatory to the whole Colledge.</p>
+            <p>That the Fellows were the onely men averſe from Meetings, whom he could not eaſily get together, but when there was ſome Leaſe to be let, <hi>&amp;c.</hi>
+            </p>
+            <p>That the party Complainant was himſelf, though Deane, abſent from the laſt anniverſary meeting appointed for reading the Statutes.</p>
+            <p>That in the clauſe inſerted in his Petition concerning the Senior Fellow's being Preſident, he aym'd at his own promotion, being the next Senior him<g ref="char:EOLhyphen"/>ſelf, and ſo deſirous of this power that in his or the Preſidents abſence he might aſſemble the Fellows about the making of new Models of Government.</p>
+            <p>This was to my beſt memory the ſum of his reply. To which it might eaſily have been anſwered.</p>
+            <p>That this ſuggeſtion of my ſeeking the Preſidentſhip for my ſelf, was a moſt groundleſs ſcandal, It never having hapned all this ſeaven years above twice that I know of, that my ſelf was the Senior Fellow reſident, which laſted but for a few days neither.</p>
+            <p>Beſides, the Office being a vaſt burthen, and nothing in it deſirable to ſuch eye of ambition or covetouſneſs as he (meaſuring others by himſelf) ſuppos'd in me, nor my ſelf in any probability of intermed<g ref="char:EOLhyphen"/>ling with that Office, being (contrary to his allegation) neither the firſt nor ſecond Senior of the Colledge, both which, with the Ma<g ref="char:EOLhyphen"/>ſter, muſt be all three abſent, before I could be in capacity to act, and that for ſome longer time then ever yet had been, elſe no danger of attempting, much leſs of perfecting any new Model, eſpecially there being but two times a year, wherein the Colledge is enabled to make new, or interpret old Statutes.</p>
+            <p>For my abſence. That 'twas not about any private pleaſure or bu<g ref="char:EOLhyphen"/>ſineſs of mine own, but was ſolely to ſeek a removal, and hinder the further progreſs of thoſe evils brought upon the Colledge by his fraud and breach of truſt, and thoſe large opportunities he has had of acting thoſe treacheries by his own conſtant reſidence at <hi>London,</hi> and his Proctor with the reverend Beard ſtanding always at the Commit<g ref="char:EOLhyphen"/>tees elbows, and being admitted (when all others are with drawn) to their private debates, and to ſpeak in ſome caſes when thoſe moſt concern'd cannot come in to anſwer, in which though by reaſon of thoſe vaſt diſadvantages I have been unſucceſsful, yet I eſteem'd both my expence of time and pains, and the double my Colledge-revenue well imployed in the endeavour.</p>
+            <pb n="31" facs="tcp:43591:23"/>
+            <p>That his diſtinction of the major part of the whole Society, and thoſe preſent, was a piece of empty Sophiſtry, himſelf well knowing, there was never yet ſince our firſt coming to the Colledge (which is now almoſt ſeven years) a full meeting of the whole number of Ma<g ref="char:EOLhyphen"/>ſter and Fellows together, nor can there well be, by reaſon of ſickneſs, buſineſs, or travel allow'd of by Statute, perpetually occaſioning ſome two or three mens abſence; ſo that if he may be allowed this <hi>ſalvo</hi> for his Negative, he will never want one who ſhall be abſent for his ſake.</p>
+            <p>Beſides, he always eſteem'd the major part of thoſe preſent, though not the whole, valid Society enough to bind the Colledge where him<g ref="char:EOLhyphen"/>ſelf was preſent and conſenting; an evident ſign, 'tis his own onely con<g ref="char:EOLhyphen"/>ſent, not the number of thoſe abſent or preſent he chiefly values.</p>
+            <p>That his accuſation of the Fellows as ſlack in coming to meetings, except in caſes of Leaſes, <hi>&amp;c.</hi> was a groundleſs ſcandal, of which fault himſelf was onely guilty, having at thoſe great <hi>ſemeſtrian</hi> meet<g ref="char:EOLhyphen"/>ings appointed for reading, and conſidering Statutes, been but twice, or at moſt, thrice preſent, during all the time of his Maſterſhip, and parti<g ref="char:EOLhyphen"/>cularly in the laſt great meeting, to which he ſummon'd all the Fellows, he ſtaid not the reading out of one third part of the Statutes; nor in<g ref="char:EOLhyphen"/>deed could ever be got from <hi>London</hi> to any Colledge-meeting, but when his quarterly courſe in preaching, or auditing the Accounts (be<g ref="char:EOLhyphen"/>ing alwayes ſuſpicious of the denial of his double Dividend at thoſe times) enforc'd his preſence.</p>
+            <p>That he hath been ſometimes, when there was great cauſe of mee<g ref="char:EOLhyphen"/>ting, neer a fourtnight together, not calling any meeting till juſt a day or two at moſt before his departure, whereby himſelf was eas'd, and the Preſident wholly charg'd with the cares of ſuch buſineſſes as ſhould have been then diſpatcht by himſelf.</p>
+            <p>That in meeting it has been obſervably his cuſtome when he had a mind to diſpatch a buſineſs indeed, to ſit him down, and call us for<g ref="char:EOLhyphen"/>mally to the table, and to cut out his work for the debate with all dexterity and expedition.</p>
+            <p>But when a buſineſs was to come on which he lik'd not, then to let us alone by the fire, or to leave his Chair, and us, to diſpute at ran<g ref="char:EOLhyphen"/>dom, otherwhile to ſpin out the time with us in diſcourſes of leſſer af<g ref="char:EOLhyphen"/>faires; or if preſt to come home to the main buſineſs, then to fall a ſhuffling, and cutting, and winding us from the point by ſome non<g ref="char:EOLhyphen"/>ſignificant, or dividing queſtions, of which Artifices he hath oft ſhown himſelf a well-skill'd Architect.</p>
+            <pb n="32" facs="tcp:43591:24"/>
+            <p>And for propounding of queſtions, his duty is, after the laying open before us the buſineſſes he hath to acquaint us with, not to lean upon his own prudence in propoſing to us like School-boyes ſuch queſtions as himſelf only ſhall think fit, but to be in that main point of the ſcrutiny rul'd by the advice of the whole or major part of the Society.</p>
+            <p>And therefore what be acknowledges, <hi>viz.</hi> that he did take upon him in the firſt place to propound queſtions of his own ſence, was a great uſurpation; but that he gave others the like liberty, is an Apo<g ref="char:EOLhyphen"/>logie nothing to the purpoſe; for our Statute appropriating it to the Maſters Office, to ask the Fellows advice, if any other do it but he, it renders the whole vote of the Society a meer nullity: Now it's true, the Maſter once at a meeting, when one excepted againſt ſome litigi<g ref="char:EOLhyphen"/>ous queſtions of his propounding againſt the ſence of the Society, pro<g ref="char:EOLhyphen"/>miſed he would afterwards propound thoſe queſtions he had nam'd, <hi>in terminis,</hi> but when it came to the point, told the party, he might now propound thoſe queſtions himſelf, if he pleaſed, (which he knew well had been been a thing illegal and void) but refus'd utterly in pur<g ref="char:EOLhyphen"/>ſuance of his promiſe and duty to propound them himſelf.</p>
+            <p>Theſe things I know will to a ſuperficial view ſeem but inconſide<g ref="char:EOLhyphen"/>rable brangles; but to men of piercing judgements, and well vers'd in Parliamentary debates, that ſee daily what a King the Speaker would be, if ſolely intruſted with this Prerogative above the Parlia<g ref="char:EOLhyphen"/>ment; and how great a weight of buſineſs is oft turn'd upon the binge of one ſmall punctillo, in the ſtating of a queſtion; theſe things cannot but appear of high concernment.</p>
+            <p>Yet I had very many materials of a much higher nature to charge him with, which being provok'd by his challenge, I was then as I told the Committee, ready to produce, having for witneſſes moſt of the ſenior Fellows then preſent before them to make them good. But as I was juſt entring upon that task, a worthy member of the Com<g ref="char:EOLhyphen"/>mittee propounded it as a queſtion to be firſt debated by themſelves, whether they ſhould ſingle out the point of Statute to be determined, as they ſhould ſee juſt upon weighing the Arguments of both parties laid before them in theory, or take in with it the conſideration of the practick, conſiſting of perſonal charge. Another Gentleman ſecond<g ref="char:EOLhyphen"/>ing him, propounded likewiſe as fit to be conſidered, whether they would admit of recriminations, which are like to be endleſs (each party ſtill deeming himſelf oblig'd to reply and anſwer at large to
+<pb n="33" facs="tcp:43591:24"/>each others, though non-pertinent objections) or rather as the firſt Gentleman propounded, would fall ſingly upon the point of Theory. This motion the whole Aſſembly ſeem'd to aſſent to; ſo according to the cuſtome of the Committee we were commanded to withdraw, and the doors ſhut. The product of the private debate was this.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>April <hi>10. 1651.</hi>
+                              </date> At the Committee for Reformation of the <g ref="char:V">Ʋ</g>niverſities.</dateline>
+                        </opener>
+                        <p>
+                           <hi>Reſolved,</hi>
+                        </p>
+                        <p>That a view be taken of the ſeveral Statutes of the Univerſities, and the Colledges and Halls therein reſpectively, to the end that they may be redu<g ref="char:EOLhyphen"/>ced to ſuch a State as may render them moſt conducing to the advance<g ref="char:EOLhyphen"/>ment of true piety, and the intereſt of a Commonwealth.</p>
+                        <p>
+                           <hi>Reſolved,</hi>
+                        </p>
+                        <p>That <hi>Mr. Rous, Mr. Martin, Mr. Moyle,</hi> Sir <hi>Hen. Mildmay, Mr. Oldſworth, Mr: Thomas Chaloner, Mr. James Chaloner, Mr. Palmer, Mr. R. Darley, Mr. Love, Mr. Nevill,</hi> be a Sub-Committee for this purpoſe, and that any three or more of them do meet and conſider thereof, and make Report to this Com<g ref="char:EOLhyphen"/>mittee from time to time concerning the ſame, as there ſhall be cauſe: and the care of this buſineſs is eſpecially referred to Mr. <hi>Oldſworth.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>In purſuance of which reſolve, ſome of thoſe Gentlemen Members of this Sub-Committee have ſince met, and paſt this following Order.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>April <hi>25. 1651.</hi>
+                              </date> At the Sub-Committee for viewing the Statutes of the <g ref="char:V">Ʋ</g>niverſities.</dateline>
+                        </opener>
+                        <p>THe Parliament having reſolved a thorow Reformation of the Univerſities, and the Committee appointed for that purpoſe in Order thereunto ha<g ref="char:EOLhyphen"/>ving taken the ſame into conſideration, do hereby deſire and require the re<g ref="char:EOLhyphen"/>ſpective Heads of Colledges, and thoſe Fellows that are intereſted in the Government thereof for the time being, to ſend up to this Committee true tranſcripts of the Statutes of the ſaid Colledges, examined and atteſted un<g ref="char:EOLhyphen"/>der their hands reſpectively; and they do ſpecially recommend it to the care of the ſaid Heads, Governours, and Officers, to conſider what Statutes or any parties thereof are prejudicial to Religion, Learning, good Manners, or the preſent Government; and further, whether there be any defects in the ſame, and to propoſe their opinions concerning the ſupplying of the ſaid defects; and that they give an account of the receipt hereof forthwith, and of their further proceedings concerning the ſame with all convenient ſpeed.</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>James Chaloner,</hi>
+                                 </item>
+                                 <item>
+                                    <hi> F. Rous,</hi>
+                                 </item>
+                                 <item>
+                                    <hi> M. Oldſworth.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div type="part">
+               <pb n="34" facs="tcp:43591:25"/>
+               <head>The private buſineſs upon which at Doctor <hi>Seaman</hi>'s Motion the grand Petition was at firſt laid aſide, though indeed it no<g ref="char:EOLhyphen"/>thing concerned it, yet is a ſtory worth the reading, and therefore take it as follows.</head>
+               <p>WE had a Fellowſhip in our Colledge kept vacant for many years, as the Maſter pretended for the Colledge neceſſities, but as the Fellows well know, for the defrayment of his double Dividend; this Fellowſhip one Sr. <hi>Conyers</hi> Scholar of our Colledge obſerving the Committee had before in a parallel caſe, taken the diſpoſal of ſuch dormant vacancies into their own hands, petition'd to have confer'd upon upon him; whereupon the Com<g ref="char:EOLhyphen"/>mittee ordered the Maſter and Seniors, or any two of them, to certifie the true ſtate of the caſe; which Order being read at a publike meeting, the Maſter was very urgent with the Society to certifie it as kept void for the Colledge-neceſſities; which the Fellows as not agreeable to truth, generally refuſed to do: ſo the Maſter (and one of the Society concurring with him ſo far) made onely this general return, that it had ever ſince our coming to the Colledge been kept vacant, but for juſt reaſons. But the Maſter alone makes another return, ſpecifying ſome particular reaſons, as namely a debt of above one hundred pounds owing to him by the Colledge. Upon which Al<g ref="char:EOLhyphen"/>legations he made a large deſcant before the Committee; which ended,</p>
+               <p>I put in ſome exceptions in writing, detecting ſomewhat of his fraudulent dealing with the Colledge, and further added ſome inlargements as I remem<g ref="char:EOLhyphen"/>ber to this effect.</p>
+               <p n="1">1. That the Fellowſhip had not been kept vacant by any publike vote, nor for thoſe reaſons he produc'd.</p>
+               <p n="2">2. As to the debt, that once in a meeting, knowing our ſtock behind-hand, and we in an incapacity of disburſing money, he preſs'd hard upon us for this debt, and took the advantage to ſay, that if we did not preſently pay, or clear him of it, he would be at liberty, if he pleas'd, to diſpoſe of the Lands as himſelf ſhould think good. And being anſwered, that the pre<g ref="char:EOLhyphen"/>ſent Revenue of the Land would neer amount to the payment of moderate Intereſt for his money, and that for his ſecurity he ſhould have the Colledge-Seal, upon which one of the Society had formerly lent the Colledge a hun<g ref="char:EOLhyphen"/>dred pounds; he ſlighted all, and nothing would content him, but either the money preſently, or ſome of our particular Bonds, or the Land to be at his own diſpoſe. So we being in this ſtrait, my ſelf, to give ſome breathing-time to the buſineſs, preſently offered upon that very ſecurity, <hi>viz.</hi> the Col<g ref="char:EOLhyphen"/>ledge-Seal, which the Maſter had ſo unbecomingly ſlighted, to lend the Col<g ref="char:EOLhyphen"/>ledge fifty pounds for ſome moneths, till we might think of ſome better way; and another, (I think 'twas Mr. <hi>Quarles</hi>) ſeconding me, offered the loan of forty pounds; which ninety pounds, together with another income then men<g ref="char:EOLhyphen"/>tioned, would make up the whole debt. But the Maſter ſeeing his pretence of ſeiſing the Land to himſelf thus defeated, neither accepted our offer, nor ſpoke more of the buſineſs at that time.</p>
+               <pb n="35" facs="tcp:43591:25"/>
+               <p>And further, that this debt he now mentions as a plea for keeping void this Fellowſhip, was a meer pretence made uſe of for by-ends, might hence appear. That he had formerly in a Colledg-meeting twitted us again with this debt as a plea for keeping void another Fellowſhip againſt our common Conſent, yet gave way to his own man to defeat the Colledg of that Fellowſhip, not once appearing (though acquainted with his mans intentions) by Petition or other<g ref="char:EOLhyphen"/>wiſe in behalf of the Colledg right, which to have done was both the duty of his place, and his ſolemn promiſe before the Society, as many can <note place="margin">See two Let<g ref="char:EOLhyphen"/>ters annex'd to the later end of this Book.</note> witneſs.</p>
+               <p n="3">3<hi rend="sup">ly</hi>. That the Biſhop of <hi>Ely</hi> himſelf, in whoſe power the Com<g ref="char:EOLhyphen"/>mittee was to act as to this caſe, could not by our ſtatute give way to the keeping vacant any Fellowſhip without the deſire and Coun<g ref="char:EOLhyphen"/>ſell of the Maſter and major part of the Fellowes; but here there appeared no deſire of ſo much as one of the Fellowes to have it kept longer vacant. But the Maſter did it alone of his own head, contrary to the ſenſe of the major part of the Society, and contra<g ref="char:EOLhyphen"/>ry to our expreſſe ſtatute, which ſayes the Maſter ſhould not hea<g ref="char:EOLhyphen"/>dily rely upon his own wiſdome, but ſtand to the diſcretion of the major part.</p>
+               <p>To theſe things the Maſter having replied what he thought fit, we were commanded to withdraw, and the Committee being, it ſeems, ſenſible that the Fellowſhip being void by death was not theirs, but the Colledges right to diſpoſe of, made this following Order.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="document">
+                           <opener>
+                              <dateline>
+                                 <date>March the 27<hi rend="sup">t</hi>h. 1651.</date> At the Comittee for Reformation of the <g ref="char:V">Ʋ</g>niverſities.</dateline>
+                           </opener>
+                           <p>Upon Reading the Petition of M<hi rend="sup">r</hi>. <hi>Tobias Conyers</hi> Bachelor of Arts and Scholer of <hi>Peter houſe</hi> in the Univerſity of <hi>Cambridge,</hi> toge<g ref="char:EOLhyphen"/>ther with the teſtimonials of him hereunto annex'd, and likewiſe the return of the Maſter, and one of the Fellows of the ſaid Colledg, concerning the vacancy of M<hi rend="sup">r</hi>. <hi>Hanſcombs</hi> Fellowſhip, and upon hearing Doctor <hi>Seaman</hi> and M<hi rend="sup">r</hi>. <hi>Hotham</hi> before the Committee; It is Ordered upon debate of the matter, that the Maſter, or Preſident and Fellowes of the ſaid Colledg, do forthwith proceed to election of a godly and learned Perſon into the place of the ſaid M<hi rend="sup">r</hi>. <hi>Hanſ<g ref="char:EOLhyphen"/>comb,</hi> and that they give an accompt thereof to this Committee on this day fortnight.</p>
+                           <closer>
+                              <signed>James Chaloner.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb n="36" facs="tcp:43591:26"/>
+               <p>The Colledg having received this Order, proceeded according to their uſuall form within eight daies, unto an election. The reſult of which was the election of S<hi rend="sup">r</hi>. <hi>Conyers</hi> into the ſaid vacancy; to which election the Preſident, and all the Fellowes were conſenting excepting only three juniors brought in lately by the Maſters intereſt at London, and who indeed according to our Colledg ſtatutes being in their ſtate of minority, and not out of their year of probation, ſhould have had no voices in the election; yet theſe three not agree<g ref="char:EOLhyphen"/>ing, neither, in any one man for a competitor.</p>
+               <p>The reaſons moving the Society to the election of S<hi rend="sup">r</hi> 
+                  <hi>Conyers,</hi> were theſe.</p>
+               <p>Firſt he was one in a ſpeciall manner deſign'd out to us for that preferment by our Colledg ſtatute both in regard of poverty, a thing generally favoured in al ſtatutes, and likewiſe in regard of his Coun<g ref="char:EOLhyphen"/>try, our ſtatute allowing two Fellowſhips for each County, and but one of them ſupplied with men of his qualification, and this Fellow<g ref="char:EOLhyphen"/>ſhip belonging to the Northern diviſion, which we were bound in the firſt place to ſee ſupplied.</p>
+               <p n="2">2<hi rend="sup">ly</hi>. Our ſtatute commands us to chuſe the ableſt man we know of or can find out. Now S<hi rend="sup">r</hi>. <hi>Conyers</hi> was known to be one of the greateſt eminency for learning and parts in our whole Colledg, in<g ref="char:EOLhyphen"/>ſomuch, that though we had a generall order made ſome years ago for examination of ſuch as ſhould ſtand for Fellowſhips, yet was it u<g ref="char:EOLhyphen"/>nanimouſly agreed even by thoſe that diſſented from the election, that they were all ſo well ſatisfied of his learning and ſufficiency, as that the former order for examination might well be ſuſpended for that time, except ſome man ſhould declare to the Preſident his intent to ſtand as a Competitor againſt him, in which caſe there ſhould be an examination; but no man adventured upon the triall.</p>
+               <p n="3">3<hi rend="sup">ly</hi>. He was well known to us for the generall courſe of his life to be one of a pious and vertuous converſation; Excepting onely that once growing a little elated by a ſudden promotion, and falling ac<g ref="char:EOLhyphen"/>quainted with a malignant, he began to be a little ſeduced, in which time, (which was about two years ago,) 'twas his ill hap to be in the company of ſome Rakells of another Colledg, who drank the Kings health, and he with them: But for this fault with ſome con<g ref="char:EOLhyphen"/>curring circumſtances, he did then receive moſt ſevere puniſhment every way anſwerable, if not greater then the offence. And for
+<pb n="37" facs="tcp:43591:26"/>the malignant diſtemper, that held him not above two months; he was by his tutors and fathers Counſells ſoon reclaimed from it: and as his life had been before this one unhappy miſdemeanor, ſo was it all the time of his abode in the Colledg after, which was for above a year, exemplarily pious and vertuous. And he had both to his Tutor, and to ſome honeſt Scholers of his acquaintance given that full evidence of his change of mind both in reference to piety, and good affection to the State (which he had likewiſe evidenced by that or<g ref="char:EOLhyphen"/>dinary way of taking the Engagement) that there could not be now left any ſcruple in any rational man's breſt concerning either his pie<g ref="char:EOLhyphen"/>ty or good affection to the Common wealth. Beſides all this, he had a moſt ample teſtimony both of his piety and good affection to the State, ſuch as is not ordinarily given to any man, from ſome god<g ref="char:EOLhyphen"/>ly and well affected Gentlemen and Miniſters in <hi>Norfolke,</hi> where he had lived the laſt year of his diſcontinuance from the Col<g ref="char:EOLhyphen"/>ledge.</p>
+               <p>Some buzzings there were of ſome Heterodoxe opinions which he was ſaid to hold, but neither did the Maſter, nor any one of the Society, even of thoſe that deſſented from the election, lay any thing publickly to his charge, and the utmoſt that any of us could heare, ſo much as by rumour, was only of ſome innocuous, though unwary expreſſions uttered once at a hudling diſpute in the Schools, and at an after-ſupper diſcourſe at one of the Sophiſters feaſts; at which times all men know how ordinary it is, and how inof<g ref="char:EOLhyphen"/>fenſive to maintain by way of diſpute the greateſt Paradoxes.</p>
+               <p n="4">4<hi rend="sup">ly</hi>. The order for election being made upon his petition, and ſent down to us, with our owne and the <hi>Norfolk</hi> teſtimoniall annex'd, wee look'd at him as one recommended to us by the Committee, as the godly and learned perſon intended (though in tenderneſs to the liberty of our election, not nominated) by their order. This election thus made, upon thoſe ſolid reaſons, with a full accompt of all our proceedings in it, we did according to order make a return of to the Committee, not for confirmation, for the election (which, being every way full and legall, needed it not) but onely to ſhow, that in obedience to their order, the Fellowſhip was forthwith ſup<g ref="char:EOLhyphen"/>plied by election.</p>
+            </div>
+            <div type="part">
+               <pb n="38" facs="tcp:43591:27"/>
+               <head>The form of our returne to the Committee containing the whole proceedings of our election, was as followes: To the honourable Committee for Reformation of the <g ref="char:V">Ʋ</g>niverſities.</head>
+               <p>VVHereas there hath been ſent to the Colledge an order from this honourable Commitee dated <hi>March</hi> 27. 1651. re<g ref="char:EOLhyphen"/>quiring the Maſter or Preſident and Fellowes of <hi>Peterhouſe</hi> in <hi>Cam<g ref="char:EOLhyphen"/>bridge</hi> forthwith to proceed to election of a godly and learned per<g ref="char:EOLhyphen"/>ſon into the place of M<hi rend="sup">r</hi>. <hi>Hanſcomb,</hi> and to give this honourable Committee an account thereof on this day, theſe are humbly to cer<g ref="char:EOLhyphen"/>tifie, that in obedience to the ſaid order, <hi>Tobias Conyers</hi> Bachelor of Arts, &amp; Scholar of the houſe of our Colledge, being one generally wel approved of amongſt us for his piety, learning and good affection to the Common-wealth, was in a full meeting of the Preſident and Fellowes elected and admitted into the ſaid Fellowſhip, according to the ſtatute and cuſtome of our Colledge, <hi>April</hi> 5. 1651. as by theſe following copies of the order, and our proceedings thereupon will more fully appear.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="document">
+                           <opener>
+                              <dateline>
+                                 <date>March the <hi>27. 1651.</hi>
+                                 </date> At the Committee for Reformation of the <g ref="char:V">Ʋ</g>niverſities.</dateline>
+                           </opener>
+                           <p>UPon reading the Petition of M<hi rend="sup">r</hi> 
+                              <hi>Tobias Conyers</hi> Bachelor of Arts and Scholar of <hi>Peterhouſe</hi> in the Univerſity of <hi>Cambridg,</hi> together with the Teſtimonialls of him hereunto annex'd, and like<g ref="char:EOLhyphen"/>wiſe the return of the Maſter, and one of the Fellows of the ſaid Colledge, concerning the vacancy of M<hi rend="sup">r</hi>. <hi>Hanſcombs</hi> Fellowſhip, and upon hearing Doctor <hi>Seaman</hi> and M<hi rend="sup">r</hi>. <hi>Hotham</hi> before this Commit<g ref="char:EOLhyphen"/>tee, It is ordered upon debate of the matter, that the Maſter or Preſident and Fellowes of the ſaid Colledge do forthwith proceed to election of a godly and learned perſon into the place of the ſaid M<hi rend="sup">r</hi>. <hi>Hanſcomb,</hi> and that they give an account hereof to this Commit<g ref="char:EOLhyphen"/>tee on this day fortnight.</p>
+                           <closer>
+                              <signed>James Chaloner.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="document">
+                           <opener>
+                              <dateline>
+                                 <date>
+                                    <hi>March</hi> 29. 1651.</date>
+                              </dateline>
+                           </opener>
+                           <p>Agreed by the Preſident and Fellowes then preſent, that in obedi<g ref="char:EOLhyphen"/>ence to the order from the Committee for Reformation of the Uni<g ref="char:EOLhyphen"/>verſities
+<pb n="39" facs="tcp:43591:27"/>dated <hi>March</hi> 27. 1651, this day be the firſt day of moni<g ref="char:EOLhyphen"/>tion according to the ſtatute about election.</p>
+                           <closer>
+                              <signed>According to which agreement the firſt moni<g ref="char:EOLhyphen"/>tion for an election was publiſh'd the day and year above written by me
+<hi>Robert Quarles</hi> Preſident.<list>
+                                    <item>
+                                       <hi>Robert Quarles</hi> Preſident.</item>
+                                    <item>
+                                       <hi>James Clarke</hi> Dec. ſen. dep.</item>
+                                    <item>
+                                       <hi>Edward Sam's</hi> Dec. jun.</item>
+                                 </list>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="document">
+                           <opener>
+                              <dateline>
+                                 <date>
+                                    <hi>April.</hi> 3. 1651.</date>
+                              </dateline>
+                           </opener>
+                           <p>Agreed by the Preſident and Fellowes then preſent, unanimouſly, that foraſmuch as they are all well ſatisfied concerning the learning and ſufficiency of Sir <hi>Conyers,</hi> there is no need of publick examina<g ref="char:EOLhyphen"/>tion of him in reference to the election, and that therefore it be at this time omitted; yet with this proviſo, that if notice be given to the Preſident of any that will ſtand in competition with him, there ſhall be a publick examination of all the candidates upon Friday and Saturday, according to a former order of the Socety, dated <hi>July</hi> 15. 1646. that ſo the moſt worthy perſons may be elected.</p>
+                           <closer>
+                              <signed>
+                                 <list>
+                                    <item>
+                                       <hi>Robert Quarles</hi> Preſident.</item>
+                                    <item>
+                                       <hi>James Clarke</hi> Dec. ſen.</item>
+                                    <item>
+                                       <hi>Charles Mildmay</hi> Dec. jun.</item>
+                                 </list>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="document">
+                           <opener>
+                              <dateline>
+                                 <date>April 5. 1651.</date>
+                              </dateline>
+                           </opener>
+                           <p>The ſecond monition in reference to an election into the place of M<hi rend="sup">r</hi>. <hi>Hanſcomb,</hi> was publiſh'd in full meeting according to the ſtatute and cuſtome of our Coledge by me</p>
+                           <closer>
+                              <signed>
+                                 <hi>Robert Quarles</hi> Preſident. Preſentibus Sociis
+<list>
+                                    <item>
+                                       <hi>John Francius.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Charles Hotham</hi>
+                                    </item>
+                                    <item>
+                                       <hi>James Clarke</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Francis Brock</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Edward Sam's</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Charles Mildmay</hi>
+                                    </item>
+                                    <item>
+                                       <hi>James Goodall</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Thomas Church</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Ralph Heywood</hi>
+                                    </item>
+                                    <item>
+                                       <hi>William Sam's.</hi>
+                                    </item>
+                                 </list>
+                              </signed>
+                           </closer>
+                           <postscript>
+                              <p>The election preſently followed according to the ſchedule hereun<g ref="char:EOLhyphen"/>to annexed <hi>pagina ſequenti.</hi>
+                              </p>
+                              <p>This is a true extract out of the Colledg Diary, which with the fol<g ref="char:EOLhyphen"/>lowing Schedule is a full account of our whole proceedings concer<g ref="char:EOLhyphen"/>ning the aforeſaid election. <hi>Ita teſtamur</hi>
+                                 <list>
+                                    <item>
+                                       <hi>Ro. Quarles</hi> Preſ.</item>
+                                    <item>
+                                       <hi>Ja. Clarke</hi> ſen. Dec.</item>
+                                    <item>
+                                       <hi>Ch. Mildmay</hi> Dec. jun.</item>
+                                 </list>
+                              </p>
+                              <q>
+                                 <floatingText xml:lang="lat">
+                                    <body>
+                                       <div type="document">
+                                          <opener>
+                                             <dateline>
+                                                <date>
+                                                   <hi>Aprilis</hi> 5, <hi>Anno Dom.</hi> 1651.</date> Conventus Praeſidis &amp; Sociorum Collegii S<hi rend="sup">t</hi>i <hi>Petri Cantabr.</hi> pro Electione novi Socii in locum Magiſtri <hi>Hanſcomb</hi> nunc vacan<g ref="char:EOLhyphen"/>tem, octiduo poſt primam monitionem interpoſito.</dateline>
+                                          </opener>
+                                          <p>
+                                             <hi>EGo</hi> Johannes Francius <hi>eligo</hi> Tobiam Conyers <hi>Eboracenſem, in Artibus Baccalaureum, in locum Magiſtri</hi> Hanſcomb <hi>ſupradi<g ref="char:EOLhyphen"/>ctum; ſed in annum probationis tantùm.</hi>
+                                          </p>
+                                          <p>
+                                             <hi>Ego</hi> Carolus Hotham <hi>eligo</hi> Tobiam Conyers <hi>Eboracenſem in Ar<g ref="char:EOLhyphen"/>tibus Baccalaureum, in locum ſupradictum; id<expan>
+                                                   <am>
+                                                      <g ref="char:abque"/>
+                                                   </am>
+                                                   <ex>que</ex>
+                                                </expan> in annum probationis tantùm.</hi>
+                                          </p>
+                                          <p>
+                                             <hi>Ego</hi> Jacobus Clarke <hi>eligo</hi> Tobiam Conyers <hi>Eboracenſem in Arti<g ref="char:EOLhyphen"/>bus Baccalaureum, in locum ſupradictum; id<expan>
+                                                   <am>
+                                                      <g ref="char:abque"/>
+                                                   </am>
+                                                   <ex>que</ex>
+                                                </expan> in annum probationis tantùm.</hi>
+                                          </p>
+                                          <p>
+                                             <hi>Ego</hi> Franciſcus Brock <hi>eligo</hi> Tobiam Conyers <hi>Eboracenſem in Ar<g ref="char:EOLhyphen"/>tibus Baccalaureum in locum ſupradictum; id<expan>
+                                                   <am>
+                                                      <g ref="char:abque"/>
+                                                   </am>
+                                                   <ex>que</ex>
+                                                </expan> in annum probatio<g ref="char:EOLhyphen"/>nis tantùm.</hi>
+                                          </p>
+                                          <p>
+                                             <hi>Ego</hi> Edwardus Sam's <hi>eligo</hi> Tobiam Conyers <hi>Eboracenſem in Ar<g ref="char:EOLhyphen"/>tibus Baccalaureum in locum ſupradictum; id<expan>
+                                                   <am>
+                                                      <g ref="char:abque"/>
+                                                   </am>
+                                                   <ex>que</ex>
+                                                </expan> in annum probatio<g ref="char:EOLhyphen"/>nis tantùm.</hi>
+                                          </p>
+                                          <p>
+                                             <hi>Ego</hi> Carolus Mildmay <hi>eligo</hi> Tobiam Conyers <hi>Eboracenſem in Artibus Baccalaureum in locum ſupradictum; id<expan>
+                                                   <am>
+                                                      <g ref="char:abque"/>
+                                                   </am>
+                                                   <ex>que</ex>
+                                                </expan> in annum proba<g ref="char:EOLhyphen"/>tionis tantùm.</hi>
+                                          </p>
+                                          <p>
+                                             <hi>Ego</hi> Jacobus Goodall <hi>eligo</hi> Johannem Quarles <hi>Norfolcienſem in Artibus Baccalaureum in locum ſupradictum; id<expan>
+                                                   <am>
+                                                      <g ref="char:abque"/>
+                                                   </am>
+                                                   <ex>que</ex>
+                                                </expan> in annum probati<g ref="char:EOLhyphen"/>onis tantùm.</hi>
+                                          </p>
+                                          <p>
+                                             <hi>Ego</hi> Thomas Church <hi>eligo</hi> Gulielmum Stavely <hi>Leiceſtrienſem in Artibus Baccalaureum in locum ſupradictum; id<expan>
+                                                   <am>
+                                                      <g ref="char:abque"/>
+                                                   </am>
+                                                   <ex>que</ex>
+                                                </expan> in annum probati<g ref="char:EOLhyphen"/>onis tantùm.</hi>
+                                          </p>
+                                          <p>
+                                             <hi>Ego</hi> Radulphus Heywood <hi>eligo</hi> Gulielmum Stavely <hi>Leicestrien<g ref="char:EOLhyphen"/>ſem in Artibus Baccalaureum in locum ſupradictum; id<expan>
+                                                   <am>
+                                                      <g ref="char:abque"/>
+                                                   </am>
+                                                   <ex>que</ex>
+                                                </expan> in annum probationis tantùm.</hi>
+                                          </p>
+                                          <p>
+                                             <hi>Ego</hi> Gulielmus Sam's <hi>eligo</hi> Tobiam Conyers <hi>Eboracenſem in Ar<g ref="char:EOLhyphen"/>tibus Baccalaureum in locum ſupradictum; id<expan>
+                                                   <am>
+                                                      <g ref="char:abque"/>
+                                                   </am>
+                                                   <ex>que</ex>
+                                                </expan> in annum probationis tantùm.</hi>
+                                          </p>
+                                          <p>
+                                             <hi>Ego</hi> Robertus Quarles <hi>Praeſes hujus Collegii, eligo, &amp; electum à majori parte Sociorum pronuncio</hi> Tobiam Conyers <hi>Eboracenſem in Artibus Baccalaureum in locum</hi> Matthaei Hanſcomb <hi>ſupradictum, in annum probationis tantùm.</hi>
+                                          </p>
+                                          <pb n="41" facs="tcp:43591:28"/>
+                                          <p>Formula admiſſionis eodem die poſt lectionem ſtatutorum &amp; juramenti praeſtationem.</p>
+                                          <p>
+                                             <hi>Authoritate mihi commiſſâ, Ego</hi> Robertus Quarles <hi>Praeſes hujus Collegii, Admitto te</hi> Tobiam Conyers <hi>in Socium hujus Collegii, ex antiqua fundatione, ad annum probationis &amp; convictum.</hi>
+                                          </p>
+                                          <closer>
+                                             <signed>Robert Quarles <hi>Praeſes Collegii.</hi>
+                                             </signed>
+                                          </closer>
+                                          <postscript>
+                                             <p>Vera Copia, &amp; concordat cum Originali.</p>
+                                             <closer>
+                                                <signed>Ita teſtamur,
+<list>
+                                                      <item>
+                                                         <hi>Robertus Quarles</hi> Praeſes.</item>
+                                                      <item>
+                                                         <hi>Ja. Clarke</hi> ſen. Dec.</item>
+                                                      <item>
+                                                         <hi>Cha. Mildmay</hi> Dec. jun.</item>
+                                                   </list>
+                                                </signed>
+                                             </closer>
+                                          </postscript>
+                                       </div>
+                                    </body>
+                                 </floatingText>
+                              </q>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb n="40" facs="tcp:43591:28" rendition="simple:additions"/>
+               <p>But the Maſter, who would neither according to his duty come down to be preſent at the Election, nor ſo far own the Colledg, whoſe Rights he is by the fundamentall Statute to be a Patron of, as to acquaint us with any exceptions he had againſt the perſon in view: (onely as we hear, he ſent ſome private Letters to the Preſi<g ref="char:EOLhyphen"/>dent (without any communication to the Society, that Sir <hi>Conyers</hi> might not be elected; together with ſome other private inſtructions to a creature or two of his own) like an enemy, rather then Maſter of the Colledg, comes to accuſe the perſon elected, bringing with him one of his own creatures, who being preſent at the Election, would not before the Society produce any exception againſt Sir <hi>Co<g ref="char:EOLhyphen"/>nyers,</hi> but it ſeems, according to the Maſters inſtructions, reſerved them to be produc'd as a ſcandall to the Colledg (who were the E<g ref="char:EOLhyphen"/>lectors) before the Committee.</p>
+               <p>The Maſters exceptions were much to the ſame effect with thoſe before mentioned.</p>
+               <p>Firſt, that he had been a malignant, and had drunk the Kings health upon his knees, and for theſe miſdemeanors had been pub<g ref="char:EOLhyphen"/>lickly corrected, and was ſent away into the Country by his Tutor as incorrigible.</p>
+               <p n="2">2. That he had been guilty of hereſie and blaſphemy, and upon that Accompt was refuſed at St. <hi>Johns</hi> Colledg, where he once ſtood for a Fellowſhip.</p>
+               <p>In anſwer to which, I being his Tutor, made before the Committee this ſummary relation of his life.</p>
+               <p>That he being recomended to me by his father, a godly Miniſter in <hi>York-ſhire,</hi> and one who had ſuffered much for the Parliament, I
+<pb n="42" facs="tcp:43591:29" rendition="simple:additions"/>took him at his firſt admiſſion into the Colledge about the age of ſixteen years to be my poor ſcholer, in which ſervice he demeaning himſelf with all faithfulneſs and diligence, and ſhewing himſelfe in the quicke apprehenſion of what ever was laid before him, one of extraordinary parts and induſtry, that his further proficiency might not be hindred by thoſe neceſſary diverſions of ſervice, I deſired to promote him to the degree of a Penſioner; in which way he being not able to maintain himſelf without ſome concurrent helps, I was a ſuter to the Maſter to con<g ref="char:EOLhyphen"/>fer upon him the Chappel Clerks place then vacant. The Maſter, as I was told by a third perſon, who made the motion to him, was wil<g ref="char:EOLhyphen"/>ling to it, if I would have truck'd with him; <hi>i. e.</hi> if I would have re<g ref="char:EOLhyphen"/>ceived one of his recommendation to be my poor Scholer in his place; but I being otherwiſe engaged, could not do it, and ſo could not obtain the Maſters conſent; yet was diſmiſs'd with this intimation of hopes, That there would be ere long more vacancies of theſe pla<g ref="char:EOLhyphen"/>ces, which fell out accordingly; but he whom I had ſpoke for was never the neerer; for ſtill one or other was promoted before him. Which obſerving, I took my opportunity, upon a vacancy that hap<g ref="char:EOLhyphen"/>ned, to repreſent the caſe to the Preſident &amp; Deans, who convinc'd of the poor lads deſervings, elected him without the Maſters concur<g ref="char:EOLhyphen"/>rence. This the Maſter reſented ſo deeply, as at his return he did (as I have been certainly informed) call the Preſident (a man of more ſtanding and worth then himſelfe) by ſuch a foul name, as I am aſhamed to mention. And in paſſion would, had not I with<g ref="char:EOLhyphen"/>ſtood him, under pretence of tranſlation, have thruſt this poor youth out of his place of eight or nine pounds a year, into a poor place of three or four pounds a year; and has ever ſince that time born him an implacable malice.</p>
+               <p>The poor youth being ſomething elated with this ſudden promo<g ref="char:EOLhyphen"/>tion, began a little to lay himſelf open to temptation, and as was before related, through the ſeducement of a malignant, whom he fell acquainted with, was ſomthing infected, and by chance a Rakell of <hi>Pembroke</hi>-Hall coming into our Butteries, and beginning the Kings health, 'twas his unhappineſs (as of ſome other ſimple lads there preſent, who were no malignants) to pledg it, yet not upon his knees, as was alledged: hearing of this, I ſent for him, and finding the original of this diſtemper to proceed from a chamber-fellow with whom without my privity he had aſſociated himſelf, I comman<g ref="char:EOLhyphen"/>ded
+<pb n="43" facs="tcp:43591:29"/>him back to his former chamber, but he refuſing, that the ex<g ref="char:EOLhyphen"/>ample of his miſdemeanor and diſobedience might not further infect the Colledg by his impunity, I corrected him publickly before two or three of the ſcholers in my chamber; and becauſe I conceived a fathers admonitions might be moſt powerfull with him, I ſent him down to the Country with letters to his father, informing him how the caſe ſtood, that if a reall reformation ſhould appear in him, he ſhould be welcome to me again; if not, that he muſt diſpoſe of him ſome other where, for I would own none ſuch as he was in that pre<g ref="char:EOLhyphen"/>ſent condition: ſo after ſome reaſonable ſtay in the Country, his father returned him up to me again, as a reformed man, of which he gave good evidence by a whole years pious &amp; religious converſation. And beſides, better to ſatisfie my ſelf, I enquired concerning him of ſome honeſt and religious lads, whom I durſt truſt, who profeſſed to me, that he had divers times in their hearing teſtified his great ſorrow for his former miſcarriages; and that to them he then appeared, aſ much as could be, of a truly pious diſpoſition. Hereupon the youth having taken his degree of Bachelor of Arts, I began to look out for ſome preferment for him, and knowing the Maſters malice to him was ſuch as 'twas impoſſible without higher conteſts then I was willing to engage in, to prefer him in our own Colledg, and hearing of a way open in S<hi rend="sup">t</hi>. <hi>Johns</hi> Colledg, I made a ſute to ſome of that Colledg in his behalf, acquainting them fully with the worſt of this which the Maſter now objects, and received from them good en<g ref="char:EOLhyphen"/>couragement.</p>
+               <p>But the day before their ſitting I received a note from one of the Fellowes there, of a report they had heard of ſome Arminian tenent which he had maintained in the Schools, whereupon I ſent for S<hi rend="sup">r</hi>. <hi>Conyers,</hi> and charg'd him with it; chid him for that he had, con<g ref="char:EOLhyphen"/>trary to my counſells, troubled his head in his unriper years with the ſtudy of the contentious part of Divinity, yet withall charg'd him with all ſeverity that whatſoever opinion though never ſo heterodox, he was poſſeſſed of in his judgment, he ſhould not deny it for any wordly preferment; but if thoſe things which he was ſaid to have diſ<g ref="char:EOLhyphen"/>puted for in the ſchools were not his judgment, he ſhould then expoſe himſelf to examination to clear himſelf of thoſe aſperſions: his anſwer to me was, that he had not maintain'd any thing that way as his judg<g ref="char:EOLhyphen"/>ment, and that he doubted not of giving ſatisfaction in any reaſona<g ref="char:EOLhyphen"/>ble way that could be expected: Whereupon I writ to S<hi rend="sup">t</hi>. <hi>Johns</hi>
+                  <pb n="44" facs="tcp:43591:30"/>Colledg, that I wondred any thing uttered by way of diſpute in thoſe tumultuary velitations, ſhould be eſteemed an argument of a mans judgement, and that Sir <hi>Conyers</hi> was ready to give ſatisfaction to ought could be alledged againſt him: But I was anſwered, that the time of election being now come, the ſuſpicion that was con<g ref="char:EOLhyphen"/>ceived of him could not be removed in ſuch an inſtant, and that therefore it was better to forbear ſitting, which counſel of his was accordingly followed.</p>
+               <p>So the poor young man deſtitute of maintinance, was not able to continue longer in the Colledg, but retired to a poor employment into <hi>Norfolke,</hi> where he has liv'd neer the ſpace of a whole yeare; during which time, what his behaviour hath been, and what opinion the religious and well affected of that place have of him, this teſti<g ref="char:EOLhyphen"/>mony of men well known to ſome members of this Committee, which I deſire may be rehearſed before you, will make it appear.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="document">
+                           <opener>
+                              <dateline>
+                                 <hi>Norff.</hi>
+                              </dateline>
+                           </opener>
+                           <p>Theſe are to certifie all whom it may concern, that M<hi rend="sup">r</hi> 
+                              <hi>Tobias Cony<g ref="char:EOLhyphen"/>ers</hi> now reſident in <hi>Hapton,</hi> hath, during his abode here, been blame<g ref="char:EOLhyphen"/>leſs in his life and converſation, uſefull in teaching of children, and painfull and induſtrious in his calling and ſtudies: And that from time to time he hath ſhewed good affections to the preſent Govern<g ref="char:EOLhyphen"/>ment, and ſetlement of the Common wealth; and hath been de<g ref="char:EOLhyphen"/>ſirous after the beſt things, and expreſſed much longing after com<g ref="char:EOLhyphen"/>munion with God in holy duties, and ordinances; and hath la<g ref="char:EOLhyphen"/>boured to promote the cauſe of God to the utmoſt of his power, as he hath had opportunity; declaring much love to the truth, pre<g ref="char:EOLhyphen"/>ferring the ſociety of the godly, and turning from ſuch as are otherwiſe minded: All which things, we whoſe names are underwritten do very freely and heartily teſtifie this 11<hi rend="sup">t</hi>h of February 1650.</p>
+                           <closer>
+                              <signed>
+                                 <list>
+                                    <item>
+                                       <hi>John Reymes.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Edward Waile</hi> Paſtor of the Church at <hi>Hapton.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Nathaneel Brewſter</hi> Miniſter of <hi>Neatſhead</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Michael Whitefoot.</hi>
+                                    </item>
+                                 </list>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>So you ſee the man was no original malignant, nor was he ever any drunkard, or otherwiſe ſcandalous perſon, but only for a ſhort time ſe<g ref="char:EOLhyphen"/>duced, and quickly cured of his diſtemper: as for a ſcandall which
+<pb n="45" facs="tcp:43591:30" rendition="simple:additions"/>'twas his unhappineſs to fall into, he received then condigne pu<g ref="char:EOLhyphen"/>niſhment, &amp; therefore ought not to be puniſhed again for the ſame, eſpecially his life both before and after being exemplarily vertuous; and beſides, having voluntarily upon the firſt coming out of the Act of Parliament for that purpoſe ſubſcribed the engagement, which in other caſes has been adjudged alone ſufficient to qualifie a man for keeping his old, or acquiring new preferment.</p>
+               <p>As for Blaſphemy, 'tis by the Maſter only alledged, not proved; nor do I belleve he was ever guilty of it in the leaſt. But with E<g ref="char:EOLhyphen"/>piſcopall ſpirits every petty difference in opinion is a capitall crime: and not to ſay Amen (though without underſtanding) to each ar<g ref="char:EOLhyphen"/>ticle of their voluminous Creed, is blaſphemy againſt the Holy Ghoſt. They not conſidering, that the paſſage of religious ſpirits is, as through many tribulations into the Kingdom of God, ſo through many errours into the true knowledg of God.</p>
+               <p>Beſides, it might have been conſidered, that his election was only as Probationer, during which time, being a whole year, he was to ſtand upon his good behaviour, and if in all that time he gave juſt cauſe of offence, was by our ſtatute to be denied admittance into perpetuity of his poſſeſſion. And therefore the danger of him, if there were any, was not conſiderable. But that we have one in our Colledg put in by this Committee, who ſince the date of this miſdemeanor was ſo ma<g ref="char:EOLhyphen"/>lignant, as publickly, in the face of al the Colledg aſſembled together, to paralell the Parliament for their proceedings with the King, &amp;c. with the Powder treaſon of the Jeſuits and Papiſts, contrived and carried on under pretence of Religion. Now this man being made Fellow by this Committee, we did not in regard he was otherwiſe a man of good deſert, oppoſe our ſelves againſt his admit<g ref="char:EOLhyphen"/>tance, onely in regard of his late diſaffection, petitioned this Com<g ref="char:EOLhyphen"/>mitee, that he might according to our ſtatute ſtand upon his good behaviour for one year before a finall ſettlement in his place: But in this caſe, the Maſter neither regarding the obligation upon him by our ſtatute, nor by his engagement to be true and faithfull to the Common wealth of <hi>England,</hi> would either petition himſelfe, nor joyn with us in that petition: whence 'tis apparant, that the great object of his diſtaſte here was not the malignancy, but only the perſon, now clear enough from that diſeaſe.</p>
+               <p>Laſtly, though I will not take upon me to enquire into the hid<g ref="char:EOLhyphen"/>den myſteries of a ſuperior power, yet this I ſhall ſay, that that
+<pb n="46" facs="tcp:43591:31"/>power which can eject a man out of his legall poſſeſſion for a miſ<g ref="char:EOLhyphen"/>demeanor of a date of neere two years old, committed and puniſhed in the dayes of his minority, long before his entrance into that poſſeſſion, muſt ſure be very tranſcendent, and above that of any, either common Law or Chancery, that I have heard of.</p>
+               <p>The Committee having heard what they thought fit on both ſides, we were commanded according to cuſtome to withdraw, and the doores to be ſhut.</p>
+               <p>What was ſaid <hi>pro,</hi> or <hi>con</hi> at the private debate, the man with the great beard only knows. But the reſult was as followeth.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="document">
+                           <opener>
+                              <dateline>
+                                 <date>Aprill. 10. 1651.</date> At the Committee for Reformation of the <g ref="char:V">Ʋ</g>niverſities.</dateline>
+                           </opener>
+                           <p>FOraſmuch as it appears to this Committee, that <hi>Tobias Conyers</hi> e<g ref="char:EOLhyphen"/>lected by the Fellowes of <hi>Peterhouſe</hi> into the Fellowſhip of Maſter <hi>Hanſcomb,</hi> hath been guilty of ſcandall, and malignancy, therefore this Committee adjudg him unfit for this Fellowſhip.</p>
+                           <p>Reſolved,</p>
+                           <p>
+                              <hi>That this Committee will chuſe a Fellow into the place of Mr.</hi> Con<g ref="char:EOLhyphen"/>yers <hi>this day fortnight.</hi>
+                           </p>
+                           <p>One who was the Maſters Sizar, and who, for ought that yet appears, never ſubſcribed the engagement, is now put into this Fel<g ref="char:EOLhyphen"/>lowſhip.</p>
+                           <p>Theſe things I have been inforc'd to publiſh for vindication of the Colledges repute from thoſe ſcandals endeavuor'd to be throwne up<g ref="char:EOLhyphen"/>on it by our unworthy Maſter; in which (being little more then a bare hiſtoricall narrative of the proceedings) I doe not in the leaſt take upon me to judg of the honourable Committees ſeverity in this their cenſure upon Sir <hi>Conyers,</hi> only to make it appear, that the Pre<g ref="char:EOLhyphen"/>ſident and Fellowes in their choice of him did nothing but what was agreeable to their truſt, both as members of the Colledge and Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <floatingText type="letter">
+                  <body>
+                     <pb n="47" facs="tcp:43591:31"/>
+                     <head>A Letter from our Preſident to one of the Society in <hi>London,</hi> up<g ref="char:EOLhyphen"/>on occaſion of the Maſters man being made Fellow of our Colledge.</head>
+                     <opener>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <p>I Marvel Maſter <hi>Becher</hi> neglected his place in this faſhion, he did. For my part, I deſired him much to the contrary. Sir <hi>Church</hi> is ad<g ref="char:EOLhyphen"/>mitted into it; after ſeven dayes (prefixed by the Fellowes) were expired. S<hi rend="sup">r</hi>. <hi>Heywood</hi> the under buttler did bring yeſterday mor<g ref="char:EOLhyphen"/>ning an other order for M<hi rend="sup">r</hi>. <hi>Majors</hi> place; which we do much wonder at, ſeeing D<hi rend="sup">r</hi>. <hi>Seaman</hi> at his laſt being at <hi>Cambridg,</hi> did both give ſeverall ſtatutable reaſons why this place ought to be kept voyd: as alſo did promiſe to do his beſt endeavours that it might be alſo. Being then, that D. <hi>Seaman</hi> and the major part of our Society are now at <hi>London,</hi> I thought good to make a ſtop of S<hi rend="sup">r</hi> 
+                        <hi>Heywoods</hi> admiſſion for ſeven days, till we hear what your mind is. I do not know where M<hi rend="sup">r</hi>. <hi>Hotham,</hi> M<hi rend="sup">r</hi>. <hi>Clarke,</hi> and M<hi rend="sup">r</hi>. <hi>Brock</hi> have their lodgings at <hi>London,</hi> otherwiſe I had written to them alſo. I have acquainted D<hi rend="sup">r</hi>. <hi>Seaman</hi> to the ſelfeſame purpoſe yeſterday, being Tueſday, and the 24. of <hi>December,</hi> at the receipt of that Order. I ſent my letter unto him with one <hi>Green</hi> a <hi>Cambridg</hi> letter Carrier, and delivered the letter my ſelf unto him, upon Tueſday laſt be<g ref="char:EOLhyphen"/>fore he went. I pray preſent my beſt reſpects to your brother Do<g ref="char:EOLhyphen"/>ctor, and our Society now at <hi>London.</hi> With the wiſhes of a happy new year I reſt; deſiring to here of you this week.</p>
+                     <closer>
+                        <salute>S<hi rend="sup">r</hi>. </salute> 
+                        <signed>
+                           <hi>I am yours, &amp;c.</hi> I. H.</signed>
+                        <dateline>Cambridg, in haſte, <date>January 25. 1650.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>A Letter from one of our Society upon the ſame occaſion, to ano<g ref="char:EOLhyphen"/>ther of our Fellowes then in <hi>London.</hi>
+                     </head>
+                     <opener>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <p>SInce your departure, there is another <hi>Mandamus</hi> come to ſup<g ref="char:EOLhyphen"/>ply M<hi rend="sup">r</hi>. <hi>Majors</hi> Fellowſhip, S<hi rend="sup">r</hi>. <hi>Heywood</hi> hath got it and expects his admiſſion daily; but D<hi rend="sup">r</hi>. <hi>Francius</hi> hath ſent to the Maſter to know his reſolution, as alſo the minds of the Fellows which are in <hi>London,</hi> determining to defer his admiſſion til he hath received your anſwers,
+<pb n="48" facs="tcp:43591:32"/>or be aſcertain'd whether you will vindicate the Colledg from ſuch a manifeſt violation, and intruſion, or not. S<hi rend="sup">r</hi>, there are a conſiderable part of our Society now in <hi>London,</hi> it much concerns you to act your utmoſt, to deliver your ſelf and the Colledg from ſo great a detriment: You may preſs the Maſter with thoſe proteſtations which he made the laſt time he was with us, whether they are not incompa<g ref="char:EOLhyphen"/>tible with S<hi rend="sup">r</hi>. <hi>Heywoods</hi> Mandate, or whether his vow which openly he expreſt, to keep void that Fellowſhip, be conſonant with the ob<g ref="char:EOLhyphen"/>taining an inſtrument to put in his own man. S<hi rend="sup">r</hi>, you know the manner of his proceedings better then I can inform you, only I thought it neceſſary to give you notice of it, leſt the ſeven days ſhould be expired before you were acquainted with it. I have no<g ref="char:EOLhyphen"/>thing elſe but my ſervice to preſent unto yourſelf, M<hi rend="sup">r</hi>. <hi>Hotham,</hi> and all the Society with you, and to ſubſcribe my ſelf.</p>
+                     <closer>
+                        <signed>Yours, &amp;c. <hi>C. M.</hi>
+                        </signed>
+                        <date>Decemb. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>1.—50.</date>
+                     </closer>
+                  </body>
+               </floatingText>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:43591:32"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
